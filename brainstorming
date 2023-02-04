@@ -1,27 +1,107 @@
-Project Title: Poverty Assessment through major cities in Ontario
+Project Title: Best cities in Ontario
+
+---------------------------------------------------------------
 
 Team Members: Khevana, Sarah, Ayokunle, Daniel
 
-Research Questions to Answer:
-What are the best cities to live in Ontario
--What is the cost of living in the top 5 most & least populated cities in Ontario.
--Is there a coorelation to population vs cost of living?
--where is an ideal city to live in comparing salary & cost of living  -> could potentially expand to where an ideal place to live with kids is
--rate of poverty in most & least populated cities
+---------------------------------------------------------------
 
+Research Questions:
+1) Which cities in Ontario have the most job opportunities and highest salaries for data analysis professionals?
+2) Which cities in Ontario have the largest net earnings for data analysis professionals (ie salary - cost of living) with and without kids?
+3) Of these top cities, which is the best for other factors such as safety and access to housing/ healthcare/ schools/ green space/ less crowded spaces?
 
-Datasets to be used:
--Break down Top 10 cities in Canada (5 most & 5 least populated cities)
--Determine the job availability for each cities
--housing prices (rent)
--groceries
--salaries
--marital status?? // family member??(kids) <- potentially could become the main division.?
+-----------------------------------------------------------------
 
-Source:
-Indeed <- to determine job availabilities per location
-Stats Can <- Population, Cities
+Rough breakdown of tasks:
+-> figure out exactly what data to get and where to get it, what info proxies for what question
+-> get and parse all data for all cities in Ontario
+-> analyze trends in individual data/ sets of data, what correlations are there
+	-> analysis of if you care most about x factor, y is the best city for you for each factor
+-> rank contributing factors - what's most important to livability/ happiness
+	-> Extra - could make this sensitive to user inputs, so can change; final analysis would be for a specific ranking
+-> rank cities based on contributing factors for a profession
+	-> Extra - could make this take user inputs as well; final analysis would be for a set profession
+	-> analysis of if you rank things in x order, these are the best cities to live in in Ontario
+	
+-----------------------------------------------------------------
 
+Possible things to look at/ get data for, per city, and potential data sources:
 
+job opportunities
+	number of postings for specific jobs - proxy for job opportunities/ availability
+	-> https://api.lightcast.io/apis/jobs-canada
+salary
+	salary for specific job  
+	-> stats canada
+cost of living
+	rent
+	house cost
+	groceries
+	public transportation/ gas price
+	-> stats canada? have to research
+	break down by single vs with kids?
+availability of housing
+	number of housing spaces available (rentals and for purchase)
+	-> stats canada? have to research
+	average commute
+	-> stats canada - proxy for how close you can expect to live to your job
+healthcare 
+	availability of general practitioners
+	availability of specialists
+	-> https://physicianreporting.org/pio/	
+safety
+	crime rates
+	-> stats canada? have to research
+	car accidents
+	-> stats canada? have to research
+schools
+	number 
+	quality
+	-> stats canada? have to research
+green space 
+	proxied by number of parks - in each city 
+	-> google API
+	average size of park would also be good, but unsure where to get that data
+population density
+	population per square meter - proxy for how crowded it's going to feel
+	-> stats canada? have to research
 
-Rough Breakdown of Tasks: (edited) 
+------------------------------------------------------------
+
+Misc Notes:
+
+suggest x city is best place to live in Ontario for y profession
+	- cost of living analysis, number of job opportunities in specified career, access to healthcare and schools, 
+	maybe number of restaraunts/ cuisine types as a proxy for having interesting food/ factor for happiness
+reddit APIs - to look at cities/ what people are saying about cities
+	could be for jobs/ cost of living
+	could be for happiness in general/ dissatisfaction
+
+-- lots of data, can choose which branches to look into 
+
+- lightcast.io api - can ge tunique job postings over a timeperiod for a region and career
+	- linked to government data/ stats
+	- would want timeseries of job postings
+	- country-specific, but there's one for canada
+	- want census subdivisions (csd) - these are cities
+	- example code:
+	import requests
+	url = "https://cc.emsiservices.com/jobs/ca/csd/{geographyID}/{career code}/timeseries"
+	querystring = {"start":"2017-01","end":"2018-01"}
+	headers = {'Authorization': 'Bearer <ACCESS_TOKEN>'}
+	response = requests.request("GET", url, headers=headers, params=querystring)
+	print(response.text)
+	- career code - NOC ID
+		https://noc.esdc.gc.ca/?GocTemplateCulture=en-CA
+		- list of codes: https://workpermit.com/immigration/canada/canada-national-occupation-classification-list
+
+	- requests require a token, tokens are grabbed via api and expire after an hour
+		- example request:
+		import requests
+		url = "https://auth.emsicloud.com/connect/token"
+		payload = "client_id=%3CCLIENT_ID%3E&client_secret=%3CCLIENT_SECRET%3E&grant_type=client_credentials&scope=jobs"
+		headers = {'Content-Type': 'application/x-www-form-urlencoded'}
+		response = requests.request("POST", url, data=payload, headers=headers)
+		print(response.text)
+	
