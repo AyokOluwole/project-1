@@ -30,13 +30,14 @@ Possible things to look at/ get data for, per city, and potential data sources:
 
 job opportunities
 	number of postings for specific jobs - proxy for job opportunities/ availability
-	-> https://api.lightcast.io/apis/jobs-canada
+	-> https://api.lightcast.io/apis/careers-canada - has annual openings by region for general careers (groups of jobs) - probably use this one, base it on career
+	-> https://api.lightcast.io/apis/jobs-canada - job postings for specific job
 salary
 	salary for specific job  
-	-> stats canada
+	-> https://api.lightcast.io/apis/careers-canada - also has annual earnings by region for general careers (groups of jobs)
 cost of living
-	rent
-	house cost
+	rent - stats can #1
+	house cost - stats can #1
 	groceries
 	public transportation/ gas price
 	-> stats canada? have to research
@@ -45,7 +46,7 @@ availability of housing
 	number of housing spaces available (rentals and for purchase)
 	-> stats canada? have to research
 	average commute
-	-> stats canada - proxy for how close you can expect to live to your job
+	-> stats canada -> stats can csv 1
 healthcare 
 	availability of general practitioners
 	availability of specialists
@@ -64,8 +65,26 @@ green space
 	-> google API
 	average size of park would also be good, but unsure where to get that data
 population density
-	population per square meter - proxy for how crowded it's going to feel
-	-> stats canada? have to research
+	population per square km - proxy for how crowded it's going to feel
+	-> stats canada source 1
+
+------------------------------------------------------------
+
+Stats can sources in more detail:
+
+1) https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&SearchText=Elliot%20Lake&GENDERlist=1&STATISTIClist=1&DGUIDlist=2021A00053520005,2021A00053506008,2021A00053557041
+	- has census data, broken down by city (census subdivision)
+		- commute time/ mode/ destination
+		- population density
+		- number of people employed in broad categories (less good than job openings for our purposes)
+		- household characteristics
+			- private households by number of persons per room (25% sample data)
+			- Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio
+				- spending <30% vs >=30%  vs 30%<=spending<100% of income on shelter (can probably merge the latter 2)
+			- average monthly shelter cost of rented and owned dwellings
+		- low income status/ prevalence, by age group
+		- average income - less useful than income for a particular field/ job
+
 
 ------------------------------------------------------------
 
