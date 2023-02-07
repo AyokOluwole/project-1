@@ -28,44 +28,43 @@ Rough breakdown of tasks:
 
 Possible things to look at/ get data for, per city, and potential data sources:
 
-job opportunities
-	number of postings for specific jobs - proxy for job opportunities/ availability
-	-> https://api.lightcast.io/apis/careers-canada - has annual openings by region for general careers (groups of jobs) - probably use this one, base it on career
-	-> https://api.lightcast.io/apis/jobs-canada - job postings for specific job
-salary
-	salary for specific job  
+Job opportunities
+	Number of people employed by job - proxy for job opportunities/ availability
+	-> Stats Can
+Salary
+	Salary by job  
 	-> https://api.lightcast.io/apis/careers-canada - also has annual earnings by region for general careers (groups of jobs)
-cost of living
-	rent - stats can #1
-	house cost - stats can #1
-	groceries
-	public transportation/ gas price
+Cost of living
+	Rent - stats can #1
+	House cost - stats can #1
+	Groceries
+	Public transportation/ gas price
+	-> Stats canada? have to research
+	Break down by single vs with kids?
+Availability of housing
+	Number of housing spaces available (rentals and for purchase)
 	-> stats canada? have to research
-	break down by single vs with kids?
-availability of housing
-	number of housing spaces available (rentals and for purchase)
-	-> stats canada? have to research
-	average commute
-	-> stats canada -> stats can csv 1
-healthcare 
-	availability of general practitioners
-	availability of specialists
+	Average commute
+	-> Stats canada -> stats can csv 1
+Healthcare 
+	Availability of general practitioners
+	Availability of specialists
 	-> https://physicianreporting.org/pio/	
-safety
-	crime rates
+Safety
+	Crime rates
 	-> stats canada? have to research
-	car accidents
+	Car accidents
 	-> stats canada? have to research
-schools
-	number 
-	quality
+Schools
+	Number 
+	Graduation Rate
 	-> stats canada? have to research
-green space 
-	proxied by number of parks - in each city 
+Green space 
+	Proxied by number of parks - in each city 
 	-> google API
-	average size of park would also be good, but unsure where to get that data
-population density
-	population per square km - proxy for how crowded it's going to feel
+	Average size of park would also be good, but unsure where to get that data
+Population density
+	Population per square km - proxy for how crowded it's going to feel
 	-> stats canada source 1
 
 ------------------------------------------------------------
@@ -85,7 +84,6 @@ Stats can sources in more detail:
 		- low income status/ prevalence, by age group
 		- average income - less useful than income for a particular field/ job
 
-
 ------------------------------------------------------------
 
 Misc Notes:
@@ -98,29 +96,3 @@ reddit APIs - to look at cities/ what people are saying about cities
 	could be for happiness in general/ dissatisfaction
 
 -- lots of data, can choose which branches to look into 
-
-- lightcast.io api - can ge tunique job postings over a timeperiod for a region and career
-	- linked to government data/ stats
-	- would want timeseries of job postings
-	- country-specific, but there's one for canada
-	- want census subdivisions (csd) - these are cities
-	- example code:
-	import requests
-	url = "https://cc.emsiservices.com/jobs/ca/csd/{geographyID}/{career code}/timeseries"
-	querystring = {"start":"2017-01","end":"2018-01"}
-	headers = {'Authorization': 'Bearer <ACCESS_TOKEN>'}
-	response = requests.request("GET", url, headers=headers, params=querystring)
-	print(response.text)
-	- career code - NOC ID
-		https://noc.esdc.gc.ca/?GocTemplateCulture=en-CA
-		- list of codes: https://workpermit.com/immigration/canada/canada-national-occupation-classification-list
-
-	- requests require a token, tokens are grabbed via api and expire after an hour
-		- example request:
-		import requests
-		url = "https://auth.emsicloud.com/connect/token"
-		payload = "client_id=%3CCLIENT_ID%3E&client_secret=%3CCLIENT_SECRET%3E&grant_type=client_credentials&scope=jobs"
-		headers = {'Content-Type': 'application/x-www-form-urlencoded'}
-		response = requests.request("POST", url, data=payload, headers=headers)
-		print(response.text)
-	
