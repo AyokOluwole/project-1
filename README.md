@@ -1,10 +1,8 @@
 # Best cities in Ontario
 
----------------------------------------------------------------
 
 ## Team Members: Khevana, Sarah, Ayokunle, Daniel
 
----------------------------------------------------------------
 
 ## Research Questions:
 
