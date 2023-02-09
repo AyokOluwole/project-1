@@ -1,0 +1,271 @@
+﻿FID,Geography,Year,Measure,Rental_Universe,Total_Bedroom_Types,Bachelor,F1_Bedroom,F2_Bedroom,F3_or_More_Bedroom
+1,Brampton,2021,Vacancy rate,Private Row Townhouse and Apartment Units,3,,2.9,3.2,3.2
+2,Brampton,2021,Average rent,Private Row Townhouse and Apartment Units,1513,963,1381,1573,1731
+3,Brampton,2021,Units,Private Row Townhouse and Apartment Units,10891,210,3646,5518,1517
+4,Mississauga,2021,Vacancy rate,Private Row Townhouse and Apartment Units,3.5,2.7,4.6,3.2,2.2
+5,Mississauga,2021,Average rent,Private Row Townhouse and Apartment Units,1569,1099,1434,1609,1802
+6,Mississauga,2021,Units,Private Row Townhouse and Apartment Units,29852,726,10378,14421,4327
+7,Peel,2021,Vacancy rate,Private Row Townhouse and Apartment Units,3.4,2.2,4.1,3.2,2.5
+8,Peel,2021,Average rent,Private Row Townhouse and Apartment Units,1554,1063,1424,1600,1785
+9,Peel,2021,Units,Private Row Townhouse and Apartment Units,40967,965,14097,20039,5866
+10,Peel,2021,Units,Rental Condominium Apartments,15335,,,,
+11,Peel,2021,Vacancy rate,Rental Condominium Apartments,0.9,,,,
+12,Peel,2021,Average rent,Rental Condominium Apartments,2257,,1941,2303,2463
+13,Peel,2021,Units,Total Condominium Universe (including rental units),50131,,,,
+14,Toronto CMA,2021,Vacancy rate,Private Row Townhouse and Apartment Units,4.5,7.8,5.8,3.3,2.2
+15,Toronto CMA,2021,Average rent,Private Row Townhouse and Apartment Units,1570,1217,1439,1680,1918
+16,Toronto CMA,2021,Units,Private Row Townhouse and Apartment Units,327970,24923,132816,136658,33573
+17,Toronto CMA,2021,Units,Rental Condominium Apartments,155568,,,,
+18,Toronto CMA,2021,Vacancy rate,Rental Condominium Apartments,1.7,,,,
+19,Toronto CMA,2021,Average rent,Rental Condominium Apartments,2303,1808,1928,2370,2733
+20,Toronto CMA,2021,Units,Total Condominium Universe (including rental units),443823,,,,
+21,Brampton,2020,Vacancy rate,Private Row Townhouse and Apartment Units,2.4,,2.8,2.4,1.2
+22,Brampton,2020,Average rent,Private Row Townhouse and Apartment Units,1464,983,1333,1515,1649
+23,Brampton,2020,Units,Private Row Townhouse and Apartment Units,10895,209,3650,5569,1467
+24,Mississauga,2020,Vacancy rate,Private Row Townhouse and Apartment Units,2.4,2.9,3.1,2,1.7
+25,Mississauga,2020,Average rent,Private Row Townhouse and Apartment Units,1515,1052,1384,1555,1751
+26,Mississauga,2020,Units,Private Row Townhouse and Apartment Units,29492,650,10319,14210,4313
+27,Peel,2020,Vacancy rate,Private Row Townhouse and Apartment Units,2.4,3.9,3,2.1,1.5
+28,Peel,2020,Average rent,Private Row Townhouse and Apartment Units,1503,1037,1375,1544,1726
+29,Peel,2020,Units,Private Row Townhouse and Apartment Units,40611,888,14042,19879,5802
+30,Peel,2020,Units,Rental Condominium Apartments,14106,,,,
+31,Peel,2020,Vacancy rate,Rental Condominium Apartments,0.8,,,,
+32,Peel,2020,Average rent,Rental Condominium Apartments,2206,,1918,2397,2672
+33,Peel,2020,Units,Total Condominium Universe (including rental units),48296,,,,
+34,Toronto CMA,2020,Vacancy rate,Private Row Townhouse and Apartment Units,3.4,5.5,4,2.7,2.1
+35,Toronto CMA,2020,Average rent,Private Row Townhouse and Apartment Units,1536,1204,1421,1637,1854
+36,Toronto CMA,2020,Units,Private Row Townhouse and Apartment Units,326290,24583,133104,135146,33457
+37,Toronto CMA,2020,Units,Rental Condominium Apartments,142381,,,,
+38,Toronto CMA,2020,Vacancy rate,Rental Condominium Apartments,1.7,,,,
+39,Toronto CMA,2020,Average rent,Rental Condominium Apartments,2323,1685,1973,2440,2772
+40,Toronto CMA,2020,Units,Total Condominium Universe (including rental units),422110,,,,
+41,Brampton,2019,Vacancy rate,Private Row Townhouse and Apartment Units,1.3,,1,1.3,
+42,Brampton,2019,Average rent,Private Row Townhouse and Apartment Units,1401,917,1274,1447,1583
+43,Brampton,2019,Units,Private Row Townhouse and Apartment Units,10996,210,3697,5612,1477
+44,Mississauga,2019,Vacancy rate,Private Row Townhouse and Apartment Units,1.2,,1.2,1.2,
+45,Mississauga,2019,Average rent,Private Row Townhouse and Apartment Units,1425,1007,1297,1462,1652
+46,Mississauga,2019,Units,Private Row Townhouse and Apartment Units,29146,647,10190,14013,4296
+47,Peel,2019,Vacancy rate,Private Row Townhouse and Apartment Units,1.2,2.1,1.2,1.2,1.3
+48,Peel,2019,Average rent,Private Row Townhouse and Apartment Units,1418,987,1291,1458,1635
+49,Peel,2019,Units,Private Row Townhouse and Apartment Units,40222,868,13913,19661,5780
+50,Peel,2019,Units,Rental Condominium Apartments,13540,,,,
+51,Peel,2019,Vacancy rate,Rental Condominium Apartments,0.4,,,,
+52,Peel,2019,Average rent,Rental Condominium Apartments,2201,,1831,2275,2431
+53,Peel ,2019,Units,Total Condominium Universe (including rental units),47651,,,,
+54,Toronto CMA,2019,Vacancy rate,Private Row Townhouse and Apartment Units,1.5,2.1,1.6,1.4,1
+55,Brampton,2010,Vacancy rate,Private Row Townhouse and Apartment Units,2,,2.2,1.5,
+56,Peel,2015,Vacancy rate,Private Row Townhouse and Apartment Units,1.52317320875438,3.30046783625731,1.47018206039076,1.54125233064015,1.32134477324462
+57,Brampton,2010,Average rent,Private Row Townhouse and Apartment Units,1050,737,937,1085,1234
+58,Brampton,2010,Units,Private Row Townhouse and Apartment Units,10550,218,3411,5397,1524
+59,Mississauga,2010,Vacancy rate,Private Row Townhouse and Apartment Units,1.8,,2.1,1.6,
+60,Mississauga,2010,Average rent,Private Row Townhouse and Apartment Units,1064,723,949,1090,1281
+61,Mississauga,2010,Units,Private Row Townhouse and Apartment Units,29057,662,10153,13800,4442
+62,Peel,2010,Vacancy rate,Private Row Townhouse and Apartment Units,1.77945796041851,2.25859728506787,2.12279991162825,1.5692703728743,1.60465427758245
+63,Peel,2010,Average rent,Private Row Townhouse and Apartment Units,1058.88249551847,726.468181818182,945.982306104394,1088.59431161119,1268.99396580624
+64,Peel,2010,Units,Private Row Townhouse and Apartment Units,39665,884,13579,19229,5973
+65,Toronto CMA,2010,Vacancy rate,Private Row Townhouse and Apartment Units,2.1,2.3,2.4,1.9,1.7
+66,Toronto CMA,2010,Average rent,Private Row Townhouse and Apartment Units,1048,777,949,1123,1329
+67,Toronto CMA,2010,Units,Private Row Townhouse and Apartment Units,313993,24241,127985,128698,33069
+68,Brampton,2009,Vacancy rate,Private Row Townhouse and Apartment Units,3.7,,2.7,3.5,
+69,Brampton,2009,Average rent,Private Row Townhouse and Apartment Units,1044,718,930,1071,1202
+70,Brampton,2009,Units,Private Row Townhouse and Apartment Units,10550,213,3437,5366,1534
+71,Mississauga,2009,Vacancy rate,Private Row Townhouse and Apartment Units,3,,3.4,2.8,
+72,Mississauga,2009,Average rent,Private Row Townhouse and Apartment Units,1049,725,928,1067,1292
+73,Mississauga,2009,Units,Private Row Townhouse and Apartment Units,29031,660,10140,13797,4434
+74,Peel,2009,Vacancy rate,Private Row Townhouse and Apartment Units,3.14138600872878,4.54310148232611,3.21923925838729,2.99101849439958,3.24160669456067
+75,Peel,2009,Average rent,Private Row Townhouse and Apartment Units,1042.89292842525,723.292096219931,928.506297414746,1068.12007514481,1268.86662198391
+76,Peel,2009,Units,Private Row Townhouse and Apartment Units,39639,877,13592,19195,5975
+77,Toronto CMA,2009,Vacancy rate,Private Row Townhouse and Apartment Units,3.1,4.9,3,2.8,2.8
+78,Toronto CMA,2009,Average rent,Private Row Townhouse and Apartment Units,1018,758,926,1096,1299
+79,Toronto CMA,2009,Units,Private Row Townhouse and Apartment Units,315375,24393,128812,129144,33026
+80,Brampton,2008,Vacancy rate,Private Row Townhouse and Apartment Units,3.2,,4.4,2,
+81,Brampton,2008,Average rent,Private Row Townhouse and Apartment Units,1033,704,931,1056,1217
+82,Brampton,2008,Units,Private Row Townhouse and Apartment Units,10543,218,3433,5358,1534
+83,Mississauga,2008,Vacancy rate,Private Row Townhouse and Apartment Units,2.1,,2.4,1.9,
+84,Mississauga,2008,Average rent,Private Row Townhouse and Apartment Units,1042,715,925,1066,1264
+85,Mississauga,2008,Units,Private Row Townhouse and Apartment Units,29128,661,10185,13845,4437
+86,Peel,2008,Vacancy rate,Private Row Townhouse and Apartment Units,2.38309295476856,2.98640996602491,2.90099024426025,1.92469456719522,2.58785547005688
+87,Peel,2008,Average rent,Private Row Townhouse and Apartment Units,1036.91358927176,712.271899886234,926.512556909972,1063.20981096704,1251.92530564395
+88,Peel,2008,Units,Private Row Townhouse and Apartment Units,39729,883,13633,19235,5978
+89,Toronto CMA,2008,Vacancy rate,Private Row Townhouse and Apartment Units,2,2.1,2.1,1.9,2.2
+90,Toronto CMA,2008,Average rent,Private Row Townhouse and Apartment Units,1021,764,927,1095,1293
+91,Toronto CMA,2008,Units,Private Row Townhouse and Apartment Units,314591,24203,127947,129407,33034
+92,Brampton,2007,Vacancy rate,Private Row Townhouse and Apartment Units,2.1,,1.8,1.9,
+93,Brampton,2007,Average rent,Private Row Townhouse and Apartment Units,987,703,895,1022,1144
+94,Brampton,2007,Units,Private Row Townhouse and Apartment Units,9938,219,3142,5137,1440
+95,Mississauga,2007,Vacancy rate,Private Row Townhouse and Apartment Units,2.8,,2.7,2.7,
+96,Mississauga,2007,Average rent,Private Row Townhouse and Apartment Units,1002,716,891,1021,1232
+97,Mississauga,2007,Units,Private Row Townhouse and Apartment Units,29084,669,10188,13787,4440
+98,Peel,2007,Vacancy rate,Private Row Townhouse and Apartment Units,2.62074206755374,2.24461883408072,2.48506556762833,2.47864528381515,3.44284015627654
+99,Peel,2007,Average rent,Private Row Townhouse and Apartment Units,998.578750448465,712.793918918919,891.942835708927,1021.271454238,1210.44897959184
+100,Peel,2007,Units,Private Row Townhouse and Apartment Units,39080,892,13345,18956,5887
+101,Toronto CMA,2007,Vacancy rate,Private Row Townhouse and Apartment Units,3.2,2.8,3.1,3.2,4.3
+102,Toronto CMA,2007,Average rent,Private Row Townhouse and Apartment Units,992,740,900,1061,1261
+103,Toronto CMA,2007,Units,Private Row Townhouse and Apartment Units,314519,24052,128088,129163,33216
+104,Brampton,2006,Vacancy rate,Private Row Townhouse and Apartment Units,2.6,,2.3,2.7,
+105,Brampton,2006,Average rent,Private Row Townhouse and Apartment Units,989,668,888,1012,1156
+106,Brampton,2006,Units,Private Row Townhouse and Apartment Units,9943,221,3140,5149,1433
+107,Mississauga,2006,Vacancy rate,Private Row Townhouse and Apartment Units,2.8,,3.3,2.6,
+108,Mississauga,2006,Average rent,Private Row Townhouse and Apartment Units,1001,696,898,1033,1194
+109,Mississauga,2006,Units,Private Row Townhouse and Apartment Units,28983,649,10155,13748,4431
+110,Peel,2015,Average rent,Private Row Townhouse and Apartment Units,1193.97298122424,813.462085308057,1062.26097922849,1233.89105623573,1426.56466876972
+111,Peel,2006,Vacancy rate,Private Row Townhouse and Apartment Units,2.76217484993074,3.19336384439359,3.06059809151702,2.62294484361792,2.47036280020439
+112,Peel,2006,Average rent,Private Row Townhouse and Apartment Units,998.470842110672,688.887356321839,895.638209853328,1027.27798063185,1184.71384720327
+113,Peel,2006,Units,Private Row Townhouse and Apartment Units,38982,874,13309,18928,5871
+114,Toronto CMA,2006,Vacancy rate,Private Row Townhouse and Apartment Units,3.2,3.5,3.5,2.9,3.2
+115,Toronto CMA,2006,Average rent,Private Row Townhouse and Apartment Units,995,740,896,1067,1271
+116,Toronto CMA,2006,Units,Private Row Townhouse and Apartment Units,314641,24064,128059,129036,33482
+117,Brampton,2005,Vacancy rate,Private Row Townhouse and Apartment Units,3.2,,3.2,2.4,
+118,Brampton,2005,Average rent,Private Row Townhouse and Apartment Units,989,682,893,1005,1170
+119,Brampton,2005,Units,Private Row Townhouse and Apartment Units,9943,224,3152,5133,1434
+120,Mississauga,2005,Vacancy rate,Private Row Townhouse and Apartment Units,4.5,,4.4,4.4,
+121,Mississauga,2005,Average rent,Private Row Townhouse and Apartment Units,1010,702,903,1035,1217
+122,Mississauga,2005,Units,Private Row Townhouse and Apartment Units,29369,679,10270,14052,4368
+123,Peel,2005,Vacancy rate,Private Row Townhouse and Apartment Units,4.14432167441388,4.25402425578831,4.11359678499665,3.85865945045795,5.14322602857635
+124,Peel,2005,Average rent,Private Row Townhouse and Apartment Units,1002.59699328449,697.038759689922,900.651616748622,1026.97341673182,1205.38366080662
+125,Peel,2005,Units,Private Row Townhouse and Apartment Units,39369,907,13437,19216,5809
+126,Toronto CMA,2005,Vacancy rate,Private Row Townhouse and Apartment Units,3.8,4.3,3.8,3.6,4.1
+127,Toronto CMA,2005,Average rent,Private Row Townhouse and Apartment Units,979,724,888,1052,1248
+128,Toronto CMA,2005,Units,Private Row Townhouse and Apartment Units,310854,24234,127324,127188,32108
+129,Brampton,2004,Vacancy rate,Private Row Townhouse and Apartment Units,4.3,,3.6,5,
+130,Brampton,2004,Average rent,Private Row Townhouse and Apartment Units,988,688,887,1016,1150
+131,Brampton,2004,Units,Private Row Townhouse and Apartment Units,9932,216,3167,5111,1438
+132,Mississauga,2004,Vacancy rate,Private Row Townhouse and Apartment Units,5.1,,5,5.6,
+133,Mississauga,2004,Average rent,Private Row Townhouse and Apartment Units,1003,694,889,1027,1224
+134,Mississauga,2004,Units,Private Row Townhouse and Apartment Units,29691,667,10375,14269,4380
+135,Peel,2004,Vacancy rate,Private Row Townhouse and Apartment Units,4.93161290322581,3.79864712514093,4.66741904551154,5.43307403018907,4.04796566523605
+136,Peel,2004,Average rent,Private Row Townhouse and Apartment Units,997.043863412664,692.532276330691,888.532269974893,1024.09901960784,1205.70986593331
+137,Peel,2004,Units,Private Row Townhouse and Apartment Units,39680,887,13557,19411,5825
+138,Toronto CMA,2004,Vacancy rate,Private Row Townhouse and Apartment Units,4.4,4.1,4.3,4.5,4.3
+139,Toronto CMA,2004,Average rent,Private Row Townhouse and Apartment Units,980,727,886,1052,1245
+140,Toronto CMA,2004,Units,Private Row Townhouse and Apartment Units,312664,24311,127861,128117,32375
+141,Brampton,2003,Vacancy rate,Private Row Townhouse and Apartment Units,2.8,,2.5,3.1,
+142,Brampton,2003,Average rent,Private Row Townhouse and Apartment Units,983,665,886,1022,1142
+143,Brampton,2003,Units,Private Row Townhouse and Apartment Units,9786,221,3122,5092,1351
+144,Mississauga,2003,Vacancy rate,Private Row Townhouse and Apartment Units,4.2,,4.4,4.4,
+145,Mississauga,2003,Average rent,Private Row Townhouse and Apartment Units,1002,685,897,1038,1205
+146,Mississauga,2003,Units,Private Row Townhouse and Apartment Units,29627,665,10485,14319,4158
+147,Peel,2003,Vacancy rate,Private Row Townhouse and Apartment Units,3.89574106916646,3.01157303370787,3.95969754808398,4.05250488632857,3.32791878172589
+148,Peel,2003,Average rent,Private Row Townhouse and Apartment Units,999.518052419253,680.011286681716,894.476151980598,1033.80279223121,1189.5501905972
+149,Peel,2003,Units,Private Row Townhouse and Apartment Units,39470,890,13622,19442,5516
+150,Toronto CMA,2003,Vacancy rate,Private Row Townhouse and Apartment Units,3.8,4.2,3.9,3.7,3.7
+151,Toronto CMA,2003,Average rent,Private Row Townhouse and Apartment Units,970,731,884,1040,1223
+152,Toronto CMA,2003,Units,Private Row Townhouse and Apartment Units,310053,25439,125683,127252,31679
+153,Brampton,2002,Vacancy rate,Private Row Townhouse and Apartment Units,3.3,,2.5,3.3,
+154,Brampton,2002,Average rent,Private Row Townhouse and Apartment Units,980,674,872,1027,1116
+155,Brampton,2002,Units,Private Row Townhouse and Apartment Units,10224,222,3185,5282,1535
+156,Mississauga,2002,Vacancy rate,Private Row Townhouse and Apartment Units,3.3,,3.7,3.3,
+157,Mississauga,2002,Average rent,Private Row Townhouse and Apartment Units,1007,690,903,1044,1204
+158,Mississauga,2002,Units,Private Row Townhouse and Apartment Units,29483,662,10397,14364,4060
+159,Peel,2002,Vacancy rate,Private Row Townhouse and Apartment Units,3.32111960567347,3.45923423423423,3.41482680002942,3.29480103674341,3.16422706176366
+160,Peel,2002,Average rent,Private Row Townhouse and Apartment Units,1002.19480192409,685.981900452489,895.730452068915,1039.42940038685,1179.85701519214
+161,Peel,2002,Units,Private Row Townhouse and Apartment Units,39764,888,13597,19677,5602
+162,Toronto CMA,2002,Vacancy rate,Private Row Townhouse and Apartment Units,2.5,2.8,2.7,2.4,2.5
+163,Toronto CMA,2002,Average rent,Private Row Townhouse and Apartment Units,981,729,891,1047,1257
+164,Toronto CMA,2002,Units,Private Row Townhouse and Apartment Units,309397,25400,125520,126799,31678
+165,Peel,2015,Units,Private Row Townhouse and Apartment Units,39386,855,13512,19308,5711
+166,Toronto CMA,2015,Vacancy rate,Private Row Townhouse and Apartment Units,1.6,1.9,1.7,1.5,1.5
+167,Toronto CMA,2015,Average rent,Private Row Townhouse and Apartment Units,1208,937,1103,1286,1516
+168,Toronto CMA,2015,Units,Private Row Townhouse and Apartment Units,316241,24358,128939,129974,32970
+169,Brampton,2014,Vacancy rate,Private Row Townhouse and Apartment Units,1.8,,1.4,1.9,
+170,Brampton,2014,Average rent,Private Row Townhouse and Apartment Units,1167,794,1032,1195,1374
+171,Brampton,2014,Units,Private Row Townhouse and Apartment Units,10713,219,3527,5476,1491
+172,Mississauga,2014,Vacancy rate,Private Row Townhouse and Apartment Units,1.8,,1.5,1.6,
+173,Mississauga,2014,Average rent,Private Row Townhouse and Apartment Units,1177,827,1050,1210,1417
+174,Mississauga,2014,Units,Private Row Townhouse and Apartment Units,28618,647,9888,13769,4314
+175,Peel,2014,Vacancy rate,Private Row Townhouse and Apartment Units,1.77198244145036,3.44025085518814,1.47020153194021,1.68256471442652,2.51530120481928
+176,Peel,2014,Average rent,Private Row Townhouse and Apartment Units,1172.02972210216,818.654734411085,1045.26753633992,1205.73187840998,1405.95555555556
+177,Peel,2014,Units,Private Row Townhouse and Apartment Units,39411,877,13447,19277,5810
+178,Toronto CMA,2014,Vacancy rate,Private Row Townhouse and Apartment Units,1.6,1.6,1.7,1.5,1.5
+179,Toronto CMA,2014,Average rent,Private Row Townhouse and Apartment Units,1170,896,1067,1251,1466
+180,Toronto CMA,2014,Units,Private Row Townhouse and Apartment Units,315841,24485,128557,129646,33153
+181,Brampton,2013,Vacancy rate,Private Row Townhouse and Apartment Units,2.5,,2.5,2,
+182,Brampton,2013,Average rent,Private Row Townhouse and Apartment Units,1121,755,1003,1148,1339
+183,Brampton,2013,Units,Private Row Townhouse and Apartment Units,10482,211,3423,5315,1533
+184,Mississauga,2013,Vacancy rate,Private Row Townhouse and Apartment Units,2.3,,2.3,2.2,
+185,Mississauga,2013,Average rent,Private Row Townhouse and Apartment Units,1146,800,1013,1170,1384
+186,Mississauga,2013,Units,Private Row Townhouse and Apartment Units,28690,646,9858,13799,4387
+187,Peel,2013,Vacancy rate,Private Row Townhouse and Apartment Units,2.31447314786508,3.12615207373272,2.3471291146851,2.14024332933006,2.68525392272651
+188,Peel,2013,Average rent,Private Row Townhouse and Apartment Units,1135.15452363933,788.92065344224,1010.42263383781,1163.88249450664,1372.34712837838
+189,Peel,2013,Units,Private Row Townhouse and Apartment Units,39252,868,13306,19151,5927
+190,Toronto CMA,2013,Vacancy rate,Private Row Townhouse and Apartment Units,1.7,2,1.8,1.5,1.9
+191,Toronto CMA,2013,Average rent,Private Row Townhouse and Apartment Units,1138,873,1032,1211,1461
+192,Toronto CMA,2013,Units,Private Row Townhouse and Apartment Units,314959,24508,128146,129168,33137
+193,Brampton,2012,Vacancy rate,Private Row Townhouse and Apartment Units,2.2,,2.4,1.5,
+194,Brampton,2012,Average rent,Private Row Townhouse and Apartment Units,1095,761,983,1127,1291
+195,Brampton,2012,Units,Private Row Townhouse and Apartment Units,10533,217,3438,5343,1535
+196,Mississauga,2012,Vacancy rate,Private Row Townhouse and Apartment Units,1.7,,1.7,1.9,
+197,Mississauga,2012,Average rent,Private Row Townhouse and Apartment Units,1121,770,995,1145,1361
+198,Mississauga,2012,Units,Private Row Townhouse and Apartment Units,28703,645,9849,13793,4416
+199,Peel,2012,Vacancy rate,Private Row Townhouse and Apartment Units,1.87414029911486,3.6885452462772,1.87759164663462,1.78486413185208,1.88786505538771
+200,Peel,2012,Average rent,Private Row Townhouse and Apartment Units,1112.4350851259,767.7343387471,991.895010160307,1139.97418478261,1342.94421105697
+201,Peel,2012,Units,Private Row Townhouse and Apartment Units,39316,873,13312,19173,5958
+202,Toronto CMA,2012,Vacancy rate,Private Row Townhouse and Apartment Units,1.7,1.6,1.8,1.7,1.8
+203,Toronto CMA,2012,Average rent,Private Row Townhouse and Apartment Units,1108,837,1007,1183,1411
+204,Toronto CMA,2012,Units,Private Row Townhouse and Apartment Units,315671,24567,128744,129249,33111
+205,Brampton,2011,Vacancy rate,Private Row Townhouse and Apartment Units,1.5,,1.9,0.9,
+206,Brampton,2011,Average rent,Private Row Townhouse and Apartment Units,1058,748,953,1092,1226
+207,Brampton,2011,Units,Private Row Townhouse and Apartment Units,10477,218,3387,5381,1491
+208,Mississauga,2011,Vacancy rate,Private Row Townhouse and Apartment Units,1.4,,1,1.4,
+209,Mississauga,2011,Average rent,Private Row Townhouse and Apartment Units,1094,757,975,1116,1331
+210,Mississauga,2011,Units,Private Row Townhouse and Apartment Units,28854,644,9967,13816,4427
+211,Peel,2011,Vacancy rate,Private Row Townhouse and Apartment Units,1.36190149958134,3.62611683848797,1.22597354062336,1.25742435270875,1.67437974683544
+212,Peel,2011,Average rent,Private Row Townhouse and Apartment Units,1083.40034578322,754.723897911833,969.420098846787,1109.2726988592,1304.54596147347
+213,Peel,2011,Units,Private Row Townhouse and Apartment Units,39411,873,13379,19234,5925
+214,Toronto CMA,2011,Vacancy rate,Private Row Townhouse and Apartment Units,1.4,1.6,1.5,1.3,1.7
+215,Toronto CMA,2011,Average rent,Private Row Townhouse and Apartment Units,1073,819,977,1148,1356
+216,Toronto CMA,2011,Units,Private Row Townhouse and Apartment Units,315033,24363,128310,129210,33150
+217,Toronto CMA,2019,Average rent,Private Row Townhouse and Apartment Units,1465,1142,1361,1563,1730
+218,Toronto CMA,2019,Units,Private Row Townhouse and Apartment Units,323341,24637,131399,134070,33235
+219,Toronto CMA,2019,Units,Rental Condominium Apartments,137794,,,,
+220,Toronto CMA,2019,Vacancy rate,Rental Condominium Apartments,0.8,,,,
+221,Toronto CMA,2019,Units,Total Condominium Universe (including rental units),406164,,,,
+222,Toronto CMA,2019,Average rent,Rental Condominium Apartments,2307,1600,1966,2476,2829
+223,Brampton,2018,Vacancy rate,Private Row Townhouse and Apartment Units,1.1,,1.2,1.2,
+224,Brampton,2018,Average rent,Private Row Townhouse and Apartment Units,1294,842,1160,1334,1540
+225,Brampton,2018,Units,Private Row Townhouse and Apartment Units,10988,212,3554,5746,1476
+226,Mississauga,2018,Vacancy rate,Private Row Townhouse and Apartment Units,0.8,,0.7,0.8,
+227,Mississauga,2018,Average rent,Private Row Townhouse and Apartment Units,1363,922,1233,1396,1590
+228,Mississauga,2018,Units,Private Row Townhouse and Apartment Units,29083,631,9999,14150,4303
+229,Peel,2018,Vacancy rate,Private Row Townhouse and Apartment Units,0.9,0.4,0.8,0.9,0.7
+230,Peel,2018,Average rent,Private Row Townhouse and Apartment Units,1344,898,1213,1379,1577
+231,Peel,2018,Units,Private Row Townhouse and Apartment Units,40151,854,13579,19932,5786
+232,Peel,2018,Units,Rental Condominium Apartments,13214,,,,
+233,Peel,2018,Vacancy rate,Rental Condominium Apartments,1,,,,
+234,Peel,2018,Average rent,Rental Condominium Apartments,1912,,,,
+235,Toronto CMA,2018,Vacancy rate,Private Row Townhouse and Apartment Units,1.1,1.6,1.2,1,1
+236,Toronto CMA,2018,Average rent,Private Row Townhouse and Apartment Units,1370,1081,1261,1468,1647
+237,Toronto CMA,2018,Units,Private Row Townhouse and Apartment Units,320898,24460,130180,133383,32875
+238,Toronto CMA,2018,Units,Rental Condominium Apartments,129547,,,,
+239,Toronto CMA,2018,Vacancy rate,Rental Condominium Apartments,0.7,,,,
+240,Toronto CMA,2018,Average rent,Rental Condominium Apartments,2234,,,,
+241,Brampton,2017,Vacancy rate,Private Row Townhouse and Apartment Units,1.3,,1.3,1.3,
+242,Brampton,2017,Average rent,Private Row Townhouse and Apartment Units,1250,827,1121,1285,1438
+243,Brampton,2017,Units,Private Row Townhouse and Apartment Units,10974,208,3547,5744,1475
+244,Mississauga,2017,Vacancy rate,Private Row Townhouse and Apartment Units,0.9,,0.8,0.9,
+245,Mississauga,2017,Average rent,Private Row Townhouse and Apartment Units,1293,917,1151,1330,1563
+246,Mississauga,2017,Units,Private Row Townhouse and Apartment Units,29167,665,10038,14161,4303
+247,Peel,2017,Vacancy rate,Private Row Townhouse and Apartment Units,1.01654359662863,1.7302036199095,0.928770847108956,1.01359510556141,1.12416594641314
+248,Peel,2017,Average rent,Private Row Townhouse and Apartment Units,1279.82748312199,895.556701030928,1143.16709606183,1317.01431801055,1531.09016960886
+249,Peel,2017,Units,Private Row Townhouse and Apartment Units,40221,884,13611,19941,5785
+250,Toronto CMA,2017,Vacancy rate,Private Row Townhouse and Apartment Units,1.1,1.2,1.1,0.9,1.1
+251,Toronto CMA,2017,Average rent,Private Row Townhouse and Apartment Units,1308,1013,1194,1403,1589
+252,Toronto CMA,2017,Units,Private Row Townhouse and Apartment Units,319282,24353,130085,131931,32913
+253,Brampton,2016,Vacancy rate,Private Row Townhouse and Apartment Units,1.2,,1.2,1.2,
+254,Brampton,2016,Average rent,Private Row Townhouse and Apartment Units,1200,788,1076,1243,1404
+255,Brampton,2016,Units,Private Row Townhouse and Apartment Units,10947,207,3545,5743,1452
+256,Mississauga,2016,Vacancy rate,Private Row Townhouse and Apartment Units,1.4,,1.4,1.5,
+257,Mississauga,2016,Average rent,Private Row Townhouse and Apartment Units,1244,866,1109,1276,1501
+258,Mississauga,2016,Units,Private Row Townhouse and Apartment Units,28701,651,9948,13806,4296
+259,Peel,2016,Vacancy rate,Private Row Townhouse and Apartment Units,1.40002013693113,1.0722669735328,1.344862785709,1.40927240234874,1.54759339704605
+260,Peel,2016,Average rent,Private Row Townhouse and Apartment Units,1231.22334039548,847.181818181818,1100.32994886237,1266.30543761829,1476.49686847599
+261,Peel,2016,Units,Private Row Townhouse and Apartment Units,39728,869,13519,19585,5755
+262,Toronto CMA,2016,Vacancy rate,Private Row Townhouse and Apartment Units,1.4,1.4,1.3,1.3,1.8
+263,Toronto CMA,2016,Average rent,Private Row Townhouse and Apartment Units,1240,957,1132,1326,1525
+264,Toronto CMA,2016,Units,Private Row Townhouse and Apartment Units,316913,24255,129308,130440,32910
+265,Brampton,2015,Vacancy rate,Private Row Townhouse and Apartment Units,1.2,,1.4,0.9,
+266,Brampton,2015,Average rent,Private Row Townhouse and Apartment Units,1171,769,1049,1211,1379
+267,Brampton,2015,Units,Private Row Townhouse and Apartment Units,10631,197,3549,5487,1398
+268,Mississauga,2015,Vacancy rate,Private Row Townhouse and Apartment Units,1.6,,1.5,1.8,
+269,Mississauga,2015,Average rent,Private Row Townhouse and Apartment Units,1205,827,1067,1243,1442
+270,Mississauga,2015,Units,Private Row Townhouse and Apartment Units,28675,647,9931,13789,4308
