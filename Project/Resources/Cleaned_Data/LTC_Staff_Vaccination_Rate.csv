@@ -1,0 +1,265 @@
+City,1st_dose_percentage_staff_vaccination_rate,2nd_dose_percentage_staff_vaccination_rate
+Ailsa Craig,0.98,0.98
+Ajax,1.0,1.0
+Akwesasne,0.98,0.98
+Alexandria,1.0,1.0
+Alliston,1.0,1.0
+Almonte,1.0,1.0
+Amherstburg,1.0,1.0
+Amherstview,1.0,1.0
+Ancaster,1.0,1.0
+Arnprior,1.0,1.0
+Arthur,1.0,1.0
+Athens,1.0,1.0
+Atikokan,1.0,1.0
+Aurora,1.0,1.0
+Aylmer,1.0,1.0
+Bancroft,1.0,1.0
+Barrie,0.9988888888888889,0.9988888888888889
+Barry's Bay,0.96,0.93
+Beamsville,1.0,1.0
+Beaverton,1.0,1.0
+Beeton,1.0,1.0
+Belleville,1.0,1.0
+Blenheim,1.0,1.0
+Blind River,1.0,1.0
+Bobcaygeon,1.0,1.0
+Bolton,1.0,1.0
+Bourget,1.0,1.0
+Bowmanville,1.0,0.99
+Bracebridge,1.0,1.0
+Bradford,1.0,1.0
+Brampton,1.0,0.9981818181818182
+Brantford,0.992,0.99
+Brighton,1.0,1.0
+Brockville,1.0,1.0
+Brussels,1.0,1.0
+Burlington,1.0,1.0
+Cambridge,0.9977777777777779,0.9955555555555556
+Campbellford,1.0,1.0
+Cannifton,1.0,1.0
+Cannington,0.98,0.98
+Carleton Place,0.99,0.99
+Chapleau,1.0,0.99
+Chatham,0.9966666666666667,0.9966666666666667
+Chatsworth,1.0,1.0
+Chelmsford,1.0,1.0
+Chesley,0.9866666666666667,0.9866666666666667
+Clarence Creek,1.0,1.0
+Clinton,1.0,1.0
+Cobden,1.0,1.0
+Cobourg,1.0,1.0
+Cochrane,1.0,1.0
+Collingwood,0.9966666666666667,0.9966666666666667
+Corbeil,1.0,1.0
+Cornwall,0.9960000000000001,0.9960000000000001
+Courtland,1.0,1.0
+Creemore,1.0,1.0
+Deep River,1.0,1.0
+Delaware,1.0,1.0
+Delhi,1.0,1.0
+Deseronto,1.0,1.0
+Dryden,1.0,1.0
+Dundas,1.0,1.0
+Dunnville,0.995,0.995
+Durham,0.99,0.99
+Dutton,1.0,1.0
+Elliot Lake,1.0,1.0
+Elmira,1.0,1.0
+Elmvale,1.0,1.0
+Embrun,1.0,1.0
+Emo,1.0,0.98
+Englehart,1.0,1.0
+Espanola,1.0,1.0
+Essex,1.0,1.0
+Etobicoke,0.9966666666666667,0.9958333333333332
+Exeter,1.0,1.0
+Fenelon Falls,0.99,0.99
+Fergus,1.0,0.94
+Fordwich,1.0,1.0
+Forest,1.0,1.0
+Fort Erie,1.0,1.0
+Fort Frances,1.0,1.0
+Gananoque,1.0,1.0
+Georgetown,1.0,1.0
+Geraldton,1.0,1.0
+Glenburnie,0.99,0.99
+Gloucester,1.0,1.0
+Goderich,1.0,1.0
+Gore Bay,1.0,1.0
+Gravenhurst,1.0,1.0
+Grimsby,1.0,1.0
+Guelph,1.0,1.0
+Hagersville,1.0,1.0
+Haileybury,1.0,1.0
+Haliburton,0.995,0.995
+Hamilton,0.9935294117647059,0.9882352941176471
+Hanover,1.0,1.0
+Harriston,1.0,1.0
+Hawkesbury,0.99,0.99
+Hearst,1.0,1.0
+Hensall,1.0,1.0
+Hornepayne,1.0,1.0
+Huntsville,0.985,0.98
+Ingersoll,1.0,1.0
+Iroquois Falls,1.0,1.0
+Jasper,1.0,1.0
+Kanata,1.0,1.0
+Kapuskasing,1.0,1.0
+Kemptville,1.0,1.0
+Kenora,0.9833333333333334,0.9700000000000001
+Keswick,1.0,1.0
+Kincardine,1.0,1.0
+King City,1.0,1.0
+Kingston,0.998,0.998
+Kingsville,1.0,1.0
+Kirkland Lake,0.975,0.97
+Kitchener,1.0,0.9942857142857143
+Komoka,1.0,1.0
+L'orignal,1.0,1.0
+Lakefield,1.0,1.0
+Lancaster,1.0,1.0
+Leamington,1.0,1.0
+Limoges,1.0,1.0
+Lindsay,0.998,0.998
+Lion's Head,1.0,1.0
+Listowel,1.0,1.0
+Little Current,0.985,0.985
+London,1.0,1.0
+Long Sault,1.0,1.0
+Lucknow,1.0,1.0
+Manitouwadge,1.0,1.0
+Maple,1.0,1.0
+Markdale,1.0,1.0
+Markham,0.9975,0.9975
+Marmora,1.0,1.0
+Maryhill,1.0,1.0
+Matheson,1.0,1.0
+Mattawa,1.0,1.0
+Maxville,1.0,1.0
+Meaford,1.0,1.0
+Merrickville,1.0,1.0
+Metcalfe,1.0,1.0
+Midland,1.0,1.0
+Millbrook,1.0,1.0
+Milton,1.0,1.0
+Milverton,1.0,1.0
+Minden,0.97,0.97
+Mississauga,0.9993333333333333,0.9953333333333333
+Mitchell,1.0,1.0
+Mount Forest,1.0,1.0
+Napanee,1.0,1.0
+Nepean,1.0,0.9966666666666667
+New Hamburg,1.0,1.0
+Newcastle,1.0,0.99
+Newmarket,0.9975,0.9975
+Niagara Falls,1.0,1.0
+Niagara-On-The-Lake,1.0,1.0
+Nipigon,1.0,1.0
+North Bay,1.0,1.0
+North York,0.9991666666666666,0.9991666666666666
+Northbrook,1.0,1.0
+Norwood,1.0,1.0
+Oakville,1.0,1.0
+Ohsweken,1.0,1.0
+Orangeville,1.0,1.0
+Orillia,0.9975,0.9975
+Orleans,1.0,1.0
+Oshawa,1.0,0.994
+Ottawa,1.0,1.0
+Owen Sound,1.0,1.0
+Palmerston,1.0,1.0
+Paris,1.0,0.995
+Parkhill,1.0,1.0
+Parry Sound,1.0,0.9966666666666667
+Pembroke,1.0,0.98
+Penetanguishene,1.0,1.0
+Perth,1.0,1.0
+Peterborough,1.0,1.0
+Petrolia,0.995,0.995
+Pickering,1.0,1.0
+Picton,1.0,1.0
+Planetagenet,1.0,1.0
+Plantagenet,1.0,1.0
+Port Colborne,1.0,1.0
+Port Hope,0.9924999999999999,0.9924999999999999
+Port Perry,1.0,1.0
+Port Stanley,1.0,1.0
+Port Dover,1.0,1.0
+Powassan,1.0,1.0
+Prescott,1.0,1.0
+Puslinch,1.0,0.86
+Rainy River,1.0,1.0
+Red Lake,1.0,1.0
+Renfrew,1.0,1.0
+Richmond Hill,0.9960000000000001,0.9879999999999999
+Ridgetown,1.0,1.0
+Sarnia,1.0,1.0
+Sarsfield,1.0,1.0
+Sault Ste. Marie,0.995,0.995
+Scarborough,0.9989473684210527,0.9963157894736842
+Seaforth,1.0,1.0
+Selby,1.0,1.0
+Shelburne,1.0,1.0
+Simcoe,1.0,1.0
+Sioux Lookout,1.0,1.0
+Smiths Falls,0.99,0.99
+Smooth Rock Falls,1.0,1.0
+Southampton,1.0,1.0
+Southwold,1.0,1.0
+St Thomas,1.0,1.0
+St. Catharines,0.9955555555555556,0.9944444444444444
+St. Jacobs,1.0,1.0
+St. Marys,1.0,1.0
+St. Thomas,0.9966666666666667,0.9966666666666667
+Stayner,1.0,1.0
+Stirling,1.0,1.0
+Stittsville,1.0,1.0
+Stoney Creek,1.0,1.0
+Stouffville,1.0,1.0
+Stratford,1.0,1.0
+Strathroy,1.0,1.0
+Sturgeon Falls,1.0,1.0
+Sudbury,1.0,0.994
+Sutton West,1.0,1.0
+Tavistock,0.995,0.995
+Tecumseh,1.0,1.0
+Terrace Bay,1.0,1.0
+Thessalon,1.0,1.0
+Thornbury,0.99,0.99
+Thunder Bay,1.0,1.0
+Tilbury,1.0,1.0
+Tillsonburg,1.0,0.995
+Timmins,1.0,1.0
+Toronto,0.9966666666666667,0.9954761904761905
+Townsend,1.0,1.0
+Trenton,1.0,1.0
+Tweed,1.0,1.0
+Unionville,1.0,1.0
+Uxbridge,1.0,1.0
+Val Caron,0.99,0.99
+Vanier,1.0,1.0
+Vaughan,0.99,0.99
+Vineland,1.0,1.0
+Virgil,1.0,0.99
+Walkerton,0.9,0.88
+Wallaceburg,1.0,1.0
+Wardsville,1.0,1.0
+Warkworth,0.97,0.97
+Waterdown,1.0,1.0
+Waterloo,1.0,1.0
+Watford,1.0,1.0
+Wawa,1.0,1.0
+Welland,1.0,1.0
+Whitby,0.9975,0.9975
+Whitchurch-Stouffville,1.0,1.0
+Wiarton,0.975,0.95
+Wikwemikong,1.0,1.0
+Winchester,1.0,1.0
+Windsor,0.9977777777777779,0.9977777777777779
+Wingham,1.0,1.0
+Woodbridge,1.0,0.9924999999999999
+Woodslee,1.0,0.99
+Woodstock,0.995,0.995
+York,1.0,1.0
+Zurich,1.0,1.0
