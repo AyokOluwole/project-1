@@ -1,339 +1,283 @@
-"Active Physicians in ONTARIO by County and Census Subdivision (CSD) in 2021"
-""
-"County Name                    CSD NAME                          Family Medicine    Specialist        Grand Total"
-"Algoma                         Algoma, Unorganized, North Part                  1                               1"
-"Blind River                                      8                 1             9"
-"Elliot Lake                                     16                 2            18"
-"Garden River 14                                  1                               1"
-"Hornepayne                                       3                               3"
-"Johnson                                          2                               2"
-"Rankin Location 15D                              2                               2"
-"Sault Ste. Marie                                98                92           190"
-"Spanish                                          1                               1"
-"St. Joseph                                       4                               4"
-"Wawa                                             4                               4"
-"Algoma Total                                                                 140              95              235"
-"Brant                          Brant                                           11              1               12"
-"Brantford                                     130             116              246"
-"Six Nations (Part) 40                            8              1                9"
-"Brant Total                                                                  149             118              267"
-"Bruce                          Arran-Elderslie                                  5                               5"
-"Brockton                                         9                 1            10"
-"Huron-Kinloss                                    5                 1             6"
-"Kincardine                                      15                              15"
-"Northern Bruce Peninsula                         8                               8"
-"Saugeen Shores                                  18                              18"
-"South Bruce                                      3                               3"
-"South Bruce Peninsula                           10                              10"
-"Bruce Total                                                                    73                 2            75"
-"Chatham-Kent                   Chatham-Kent                                    86                68           154"
-"Chatham-Kent Total                                                             86                68           154"
-"Cochrane                       Black River-Matheson                             1                               1"
-"Cochrane                                         5                 1             6"
-"Factory Island 1                                19                 1            20"
-"Hearst                                           6                               6"
-"Iroquois Falls                                   5                               5"
-"Kapuskasing                                      9                 6            15"
-"Smooth Rock Falls                                2                               2"
-"Timmins                                         59                34            93"
-"Cochrane Total                                                               106                 42           148"
-"Dufferin                       Grand Valley                                     5                               5"
-"Orangeville                                     63                32            95"
-"Shelburne                                       10                              10"
-"Dufferin Total                                                                 78             32              110"
-"Durham                         Ajax                                            85            100              185"
-"Brock                                            5                               5"
-"Clarington                                      97             15              112"
-"Oshawa                                        155             246              401"
-"Pickering                                       56             25               81"
-"Scugog                                          36              5               41"
-"Uxbridge                                        27              1               28"
-"Whitby                                          81             68              149"
-"Durham Total                                                                 542             460             1002"
-"Elgin                          Aylmer                                           9                               9"
-"Central Elgin                                    4                 3             7"
-"Dutton/Dunwich                                   2                               2"
-"Southwold                                        3                 1             4"
-"St. Thomas                                      58                63           121"
-"West Elgin                                       4                               4"
-"Elgin Total                                                                    80                67           147"
-"Essex                          Amherstburg                                     14                 1            15"
-"Essex                                           16                              16"
-"Kingsville                                       8                               8"
-"Lakeshore                                       13              2               15"
-"LaSalle                                         19              1               20"
-"Leamington                                      26             14               40"
-"Tecumseh                                        25             11               36"
-"Windsor                                       252             332              584"
-"Essex Total                                                                  373             361              734"
-"Frontenac                 Central Frontenac                               2             2"
-"Kingston                                      227    542    769"
-"South Frontenac                                 5      1      6"
-"Frontenac Total                                                         234    543    777"
-"Greater Sudbury           Greater Sudbury / Grand Sudbury               192    242    434"
-"Greater Sudbury Total                                                   192    242    434"
-"Grey                      Georgian Bluffs                                 1             1"
-"Grey Highlands                                  9             9"
-"Hanover                                        16      3     19"
-"Meaford                                         8             8"
-"Owen Sound                                     53     94    147"
-"The Blue Mountains                              9             9"
-"West Grey                                       7             7"
-"Grey Total                                                              103     97    200"
-"Haldimand-Norfolk         Haldimand County                               28      7     35"
-"Norfolk County                                 48     20     68"
-"Haldimand-Norfolk Total                                                  76     27    103"
-"Haliburton                Dysart et al                                   13            13"
-"Minden Hills                                    4             4"
-"Haliburton Total                                                         17            17"
-"Halton                    Burlington                                    204    206    410"
-"Halton Hills                                   70     10     80"
-"Milton                                        108     55    163"
-"Oakville                                      298    316    614"
-"Halton Total                                                            680    587   1267"
-"Hamilton                  Hamilton                                      559   1279   1838"
-"Hamilton Total                                                          559   1279   1838"
-"Hastings                  Bancroft                                       14            14"
-"Belleville                                     75    119    194"
-"Madoc                                           4             4"
-"Marmora and Lake                                2             2"
-"Quinte West                                    45      3     48"
-"Stirling-Rawdon                                 3             3"
-"Tweed                                           3             3"
-"Tyendinaga                                      1             1"
-"Hastings Total                                                          147    122    269"
-"Huron                     Bluewater                                       6             6"
-"Central Huron                                  10            10"
-"Goderich                                       23      9     32"
-"Howick                                          1             1"
-"Huron East                                     12      1     13"
-"North Huron                                     7      2      9"
-"South Huron                                    15      1     16"
-"Huron Total                                                              74     13     87"
-"Kawartha Lakes            Kawartha Lakes                                 61     25     86"
-"Kawartha Lakes Total                                                     61     25     86"
-"Kenora                    Dryden                                         14      3     17"
-"Ignace                                          3             3"
-"Kenora                                         38     18     56"
-"Kenora, Unorganized                             1             1"
-"Kitchenuhmaykoosib Aaki 84 (Big Trout Lake)     1             1"
-"Machin                                          1             1"
-"Red Lake                                        9             9"
-"Sioux Lookout                                  61      8     69"
-"Whitefish Bay 32A                               1             1"
-"Kenora Total                                                            129     29    158"
-"Lambton                   Enniskillen                                    15      1     16"
-"Lambton Shores                                 19      2     21"
-"Point Edward                                    5     10     15"
-"Sarnia                                         64     82    146"
-"St. Clair                                       6             6"
-"Walpole Island 46                               1             1"
-"Lambton Total                                                           110     95    205"
-"Lanark                    Carleton Place                                 22      3     25"
-"Drummond/North Elmsley                          1             1"
-"Lanark Highlands                                4             4"
-"Mississippi Mills                              23      5     28"
-"Perth                                          32      9     41"
-"Smiths Falls                                   26      4     30"
-"                             Tay Valley                                   1             1"
-"Lanark Total                                                            109     21    130"
-"Leeds and Grenville          Athens                                       3             3"
-"Brockville                                  52     51    103"
-"Edwardsburgh/Cardinal                        1             1"
-"Elizabethtown-Kitley                         1      8      9"
-"Gananoque                                    9             9"
-"Leeds and the Thousand Islands               5             5"
-"Merrickville-Wolford                         4             4"
-"North Grenville                             39      3     42"
-"Prescott                                     3             3"
-"Rideau Lakes                                 4             4"
-"Leeds and Grenville Total                                               121     62    183"
-"Lennox and Addington         Addington Highlands                          3      1      4"
-"Greater Napanee                             35     13     48"
-"Loyalist                                    12      2     14"
-"Stone Mills                                  4             4"
-"Lennox and Addington Total                                               54     16     70"
-"Manitoulin                   Assiginack                                   1             1"
-"Central Manitoulin                          10            10"
-"Gordon/Barrie Island                         3             3"
-"Northeastern Manitoulin and the Islands     13            13"
-"Wikwemikong Unceded                          2             2"
-"Manitoulin Total                                                         29            29"
-"Middlesex                    London                                     488   1060   1548"
-"Lucan Biddulph                               5             5"
-"Middlesex Centre                             8      7     15"
-"North Middlesex                              4             4"
-"Southwest Middlesex                          6             6"
-"Strathroy-Caradoc                           30     16     46"
-"Thames Centre                                5             5"
-"Middlesex Total                                                         546   1083   1629"
-"Muskoka                      Bracebridge                                 31     11     42"
-"Gravenhurst                                  7      1      8"
-"Huntsville                                  55     13     68"
-"Muskoka Lakes                                1      1      2"
-"Muskoka Total                                                            94     26    120"
-"Niagara                      Fort Erie                                   17      2     19"
-"Grimsby                                     36     14     50"
-"Lincoln                                     18            18"
-"Niagara Falls                               55     74    129"
-"Niagara-on-the-Lake                         14            14"
-"Pelham                                      14            14"
-"Port Colborne                               13      1     14"
-"St. Catharines                             151    239    390"
-"Thorold                                     16     21     37"
-"Welland                                     46     45     91"
-"West Lincoln                                11            11"
-"Niagara Total                                                           391    396    787"
-"Nipissing                    Bonfield                                     1             1"
-"Calvin                                       5             5"
-"East Ferris                                  1             1"
-"Nipissing 10                                 1      1      2"
-"Nipissing, Unorganized, North Part           1             1"
-"North Bay                                   74     81    155"
-"Temagami                                     2             2"
-"West Nipissing / Nipissing Ouest            16      2     18"
-"Nipissing Total                                                         101     84    185"
-"Northumberland               Brighton                                    15      1     16"
-"Cobourg                                     40     19     59"
-"Cramahe                                      2             2"
-"Port Hope                                   16      3     19"
-"Trent Hills                                 18      5     23"
-"Northumberland Total                                                     91     28    119"
-"Ottawa                       Ottawa                                    1346   1954   3300"
-"Ottawa Total                                                           1346   1954   3300"
-"Oxford                       East Zorra-Tavistock                         5             5"
-"Ingersoll                                   14      1     15"
-"Norwich                                      5             5"
-"                             Tillsonburg                        26      7     33"
-"Woodstock                          53     40     93"
-"Zorra                               1             1"
-"Oxford Total                                                   104     48    152"
-"Parry Sound                  Armour                              7             7"
-"Callander                           4             4"
-"Parry Sound                        35     10     45"
-"Perry                               3             3"
-"Powassan                            2             2"
-"Parry Sound Total                                               51     10     61"
-"Peel                         Brampton                          469    362    831"
-"Caledon                            31      3     34"
-"Mississauga                       755    757   1512"
-"Peel Total                                                    1255   1122   2377"
-"Perth                        North Perth                        14      3     17"
-"Perth East                          4             4"
-"St. Marys                          14      1     15"
-"Stratford                          43     73    116"
-"West Perth                          7             7"
-"Perth Total                                                     82     77    159"
-"Peterborough                 Asphodel-Norwood                    1             1"
-"Cavan Monaghan                      3      1      4"
-"Douro-Dummer                        8             8"
-"Havelock-Belmont-Methuen            1             1"
-"North Kawartha                      1      1      2"
-"Peterborough                      149    185    334"
-"Smith-Ennismore-Lakefield           3      1      4"
-"Trent Lakes                         3             3"
-"Peterborough Total                                             169    188    357"
-"Prescott and Russell         Alfred and Plantagenet              7             7"
-"Champlain                           2             2"
-"Clarence-Rockland                  18            18"
-"East Hawkesbury                     1             1"
-"Hawkesbury                         58     45    103"
-"Russell                            12      1     13"
-"The Nation / La Nation             19            19"
-"Prescott and Russell Total                                     117     46    163"
-"Prince Edward                Prince Edward County               18      3     21"
-"Prince Edward Total                                             18      3     21"
-"Rainy River                  Atikokan                            8             8"
-"Chapple                             2             2"
-"Fort Frances                       15      4     19"
-"Rainy River                         3             3"
-"Rainy River Total                                               28      4     32"
-"Renfrew                      Arnprior                           22      2     24"
-"Bonnechere Valley                   1             1"
-"Deep River                          9      1     10"
-"Greater Madawaska                   3             3"
-"Killaloe, Hagarty and Richards      3             3"
-"Madawaska Valley                    7             7"
-"Pembroke                           52     41     93"
-"Petawawa                           14      3     17"
-"Renfrew                            27     10     37"
-"Whitewater Region                   3      1      4"
-"Renfrew Total                                                  141     58    199"
-"Simcoe                       Barrie                            193    243    436"
-"Bradford West Gwillimbury          25            25"
-"Clearview                          12      1     13"
-"Collingwood                        49     19     68"
-"Essa                               11      2     13"
-"Innisfil                           10      1     11"
-"Midland                            53      9     62"
-"New Tecumseth                      46     14     60"
-"Orillia                            82     65    147"
-"Penetanguishene                    21     24     45"
-"Ramara                              1             1"
-"Severn                              2      3      5"
-"Springwater                         8      2     10"
-"Tay                                 2      1      3"
-"                                                       Tiny                           1               1"
-"Wasaga Beach                  22              22"
-"Simcoe Total                                                                        538     384     922"
-"Stormont, Dundas and Glengarry                         Akwesasne (Part) 59            1       1       2"
-"Cornwall                      62      58     120"
-"North Dundas                  36      11      47"
-"North Glengarry               13              13"
-"North Stormont                 5               5"
-"South Dundas                   7       2       9"
-"South Stormont                 2               2"
-"Stormont, Dundas and Glengarry Total                                                126      72     198"
-"Sudbury                                                Chapleau                       3               3"
-"Espanola                       7       1       8"
-"Sables-Spanish Rivers          2               2"
-"Sudbury Total                                                                        12       1      13"
-"Thunder Bay                                            Fort William 52                2               2"
-"Greenstone                     8               8"
-"Manitouwadge                   3               3"
-"Marathon                      10              10"
-"Schreiber                      2               2"
-"Terrace Bay                    2               2"
-"Thunder Bay                  171     208     379"
-"Thunder Bay, Unorganized       3               3"
-"Thunder Bay Total                                                                   201     208     409"
-"Timiskaming                                            Charlton and Dack              5               5"
-"Coleman                        1               1"
-"Kirkland Lake                  9       1      10"
-"Latchford                      1               1"
-"Temiskaming Shores            21       3      24"
-"Timiskaming Total                                                                    37       4      41"
-"Toronto                                                Toronto                     3688    5938    9626"
-"Toronto Total                                                                      3688    5938    9626"
-"Waterloo                                               Cambridge                    149     113     262"
-"Kitchener                    272     290     562"
-"North Dumfries                 6               6"
-"Waterloo                     120      78     198"
-"Wellesley                      3               3"
-"Wilmot                         9               9"
-"Woolwich                      13       1      14"
-"Waterloo Total                                                                      572     482    1054"
-"Wellington                                             Centre Wellington             45      12      57"
-"Erin                           9               9"
-"Guelph                       191     162     353"
-"Guelph/Eramosa                 3               3"
-"Mapleton                       4               4"
-"Minto                          5               5"
-"Puslinch                       2               2"
-"Wellington North              10       1      11"
-"Wellington Total                                                                    269     175     444"
-"York                                                   Aurora                        59      11      70"
-"East Gwillimbury              14       1      15"
-"Georgina                      25       1      26"
-"King                          14       2      16"
-"Markham                      287     279     566"
-"Newmarket                    127     253     380"
-"Richmond Hill                222     265     487"
-"Vaughan                      292     198     490"
-"Whitchurch-Stouffville        24       3      27"
-"York Total                                                                         1064    1013    2077"
-"Grand Total                                                                       15363   17807   33170"
-"Source: Active Physician Registry, December 31, 2021"
-"Ontario Physician Reporting Centre"
-"Prepared: September, 2022"
-""
+County Name,csd_name,Family Medicine,Specialist,Grand Total
+Algoma,"Algoma, Unorganized, North Part",1,,1
+Algoma,Blind River,8,1,9
+Algoma,Elliot Lake,16,2,18
+Algoma,Garden River 14,1,,1
+Algoma,Hornepayne,3,,3
+Algoma,Johnson,2,,2
+Algoma,Rankin Location 15D,2,,2
+Algoma,Sault Ste. Marie,98,92,190
+Algoma,Spanish,1,,1
+Algoma,St. Joseph,4,,4
+Algoma,Wawa,4,,4
+Brant,Brant,11,1,12
+Brant,Brantford,130,116,246
+Brant,Six Nations (Part) 40,8,1,9
+Bruce,Arran-Elderslie,5,,5
+Bruce,Brockton,9,1,10
+Bruce,Huron-Kinloss,5,1,6
+Bruce,Kincardine,15,,15
+Bruce,Northern Bruce Peninsula,8,,8
+Bruce,Saugeen Shores,18,,18
+Bruce,South Bruce,3,,3
+Bruce,South Bruce Peninsula,10,,10
+Chatham-Kent,Chatham-Kent,86,68,154
+Cochrane,Black River-Matheson,1,,1
+Cochrane,Cochrane,5,1,6
+Cochrane,Factory Island 1,19,1,20
+Cochrane,Hearst,6,,6
+Cochrane,Iroquois Falls,5,,5
+Cochrane,Kapuskasing,9,6,15
+Cochrane,Smooth Rock Falls,2,,2
+Cochrane,Timmins,59,34,93
+Dufferin,Grand Valley,5,32,5
+Dufferin,Orangeville,63,,95
+Dufferin,Shelburne,10,,10
+Durham,Ajax,85,100,185
+Durham,Brock,5,,5
+Durham,Clarington,97,15,112
+Durham,Oshawa,155,246,401
+Durham,Pickering,56,25,81
+Durham,Scugog,36,5,41
+Durham,Uxbridge,27,1,28
+Durham,Whitby,81,68,149
+Elgin,Aylmer,9,,9
+Elgin,Central Elgin,4,3,7
+Elgin,Dutton/Dunwich,2,,2
+Elgin,Southwold,3,1,4
+Elgin,St. Thomas,58,63,121
+Elgin,West Elgin,4,,4
+Essex,Amherstburg,14,1,15
+Essex,Essex,16,,16
+Essex,Kingsville,8,,8
+Essex,Lakeshore,13,2,15
+Essex,LaSalle,19,1,20
+Essex,Leamington,26,14,40
+Essex,Tecumseh,25,11,36
+Essex,Windsor,252,332,584
+Frontenac,Central Frontenac,2,,2
+Frontenac,Kingston,227,542,769
+Frontenac,South Frontenac,5,1,6
+Greater Sudbury,Greater Sudbury / Grand Sudbury,192,242,434
+Grey,Georgian Bluffs,1,,1
+Grey,Grey Highlands,9,,9
+Grey,Hanover,16,3,19
+Grey,Meaford,8,,8
+Grey,Owen Sound,53,94,147
+Grey,The Blue Mountains,9,,9
+Grey,West Grey,7,,7
+Haldimand-Norfolk,Haldimand County,28,7,35
+Haldimand-Norfolk,Norfolk County,48,20,68
+Haliburton,Dysart et al,13,,13
+Haliburton,Minden Hills,4,,4
+Halton,Burlington,204,206,410
+Halton,Halton Hills,70,10,80
+Halton,Milton,108,55,163
+Halton,Oakville,298,316,614
+Hamilton,Hamilton,559,1279,1838
+Hastings,Bancroft,14,,14
+Hastings,Belleville,75,119,194
+Hastings,Madoc,4,,4
+Hastings,Marmora and Lake,2,,2
+Hastings,Quinte West,45,3,48
+Hastings,Stirling-Rawdon,3,,3
+Hastings,Tweed,3,,3
+Hastings,Tyendinaga,1,,1
+Huron,Bluewater,6,,6
+Huron,Central Huron,10,,10
+Huron,Goderich,23,9,32
+Huron,Howick,1,,1
+Huron,Huron East,12,1,13
+Huron,North Huron,7,2,9
+Huron,South Huron,15,1,16
+Kawartha Lakes,Kawartha Lakes,61,25,86
+Kenora,Dryden,14,3,17
+Kenora,Ignace,3,,3
+Kenora,Kenora,38,18,56
+Kenora,"Kenora, Unorganized",1,,1
+Kenora,Kitchenuhmaykoosib Aaki 84 (Big Trout Lake),1,,1
+Kenora,Machin,1,,1
+Kenora,Red Lake,9,,9
+Kenora,Sioux Lookout,61,8,69
+Kenora,Whitefish Bay 32A,1,,1
+Lambton,Enniskillen,15,1,16
+Lambton,Lambton Shores,19,2,21
+Lambton,Point Edward,5,10,15
+Lambton,Sarnia,64,82,146
+Lambton,St. Clair,6,,6
+Lambton,Walpole Island 46,1,,1
+Lanark,Carleton Place,22,3,25
+Lanark,Drummond/North Elmsley,1,,1
+Lanark,Lanark Highlands,4,,4
+Lanark,Mississippi Mills,23,5,28
+Lanark,Perth,32,9,41
+Lanark,Smiths Falls,26,4,30
+Lanark,Tay Valley,1,,1
+Leeds and Grenville,Athens,3,,3
+Leeds and Grenville,Brockville,52,51,103
+Leeds and Grenville,Edwardsburgh/Cardinal,1,,1
+Leeds and Grenville,Elizabethtown-Kitley,1,8,9
+Leeds and Grenville,Gananoque,9,,9
+Leeds and Grenville,Leeds and the Thousand Islands,5,,5
+Leeds and Grenville,Merrickville-Wolford,4,,4
+Leeds and Grenville,North Grenville,39,3,42
+Leeds and Grenville,Prescott,3,,3
+Leeds and Grenville,Rideau Lakes,4,,4
+Lennox and Addington,Addington Highlands,3,1,4
+Lennox and Addington,Greater Napanee,35,13,48
+Lennox and Addington,Loyalist,12,2,14
+Lennox and Addington,Stone Mills,4,,4
+Manitoulin,Assiginack,1,,1
+Manitoulin,Central Manitoulin,10,,10
+Manitoulin,Gordon/Barrie Island,3,,3
+Manitoulin,Northeastern Manitoulin and the Islands,13,,13
+Manitoulin,Wikwemikong Unceded,2,,2
+Middlesex,London,488,1060,1548
+Middlesex,Lucan Biddulph,5,,5
+Middlesex,Middlesex Centre,8,7,15
+Middlesex,North Middlesex,4,,4
+Middlesex,Southwest Middlesex,6,,6
+Middlesex,Strathroy-Caradoc,30,16,46
+Middlesex,Thames Centre,5,,5
+Muskoka,Bracebridge,31,11,42
+Muskoka,Gravenhurst,7,1,8
+Muskoka,Huntsville,55,13,68
+Muskoka,Muskoka Lakes,1,1,2
+Niagara,Fort Erie,17,2,19
+Niagara,Grimsby,36,14,50
+Niagara,Lincoln,18,,18
+Niagara,Niagara Falls,55,74,129
+Niagara,Niagara-on-the-Lake,14,,14
+Niagara,Pelham,14,,14
+Niagara,Port Colborne,13,1,14
+Niagara,St. Catharines,151,239,390
+Niagara,Thorold,16,21,37
+Niagara,Welland,46,45,91
+Niagara,West Lincoln,11,,11
+Nipissing,Bonfield,1,,1
+Nipissing,Calvin,5,,5
+Nipissing,East Ferris,1,,1
+Nipissing,Nipissing 10,1,1,2
+Nipissing,"Nipissing, Unorganized, North Part",1,,1
+Nipissing,North Bay,74,81,155
+Nipissing,Temagami,2,,2
+Nipissing,West Nipissing / Nipissing Ouest,16,2,18
+Northumberland,Brighton,15,1,16
+Northumberland,Cobourg,40,19,59
+Northumberland,Cramahe,2,,2
+Northumberland,Port Hope,16,3,19
+Northumberland,Trent Hills,18,5,23
+Ottawa,Ottawa,1346,1954,3300
+Oxford,East Zorra-Tavistock,5,1,5
+Oxford,Ingersoll,14,,15
+Oxford,Norwich,5,,5
+Oxford,Tillsonburg,26,7,33
+Oxford,Woodstock,53,40,93
+Oxford,Zorra,1,,1
+Parry Sound,Armour,7,10,7
+Parry Sound,Callander,4,,4
+Parry Sound,Parry Sound,35,,45
+Parry Sound,Perry,3,,3
+Parry Sound,Powassan,2,,2
+Peel,Brampton,469,362,831
+Peel,Caledon,31,3,34
+Peel,Mississauga,755,757,1512
+Perth,North Perth,14,3,17
+Perth,Perth East,4,,4
+Perth,St. Marys,14,1,15
+Perth,Stratford,43,73,116
+Perth,West Perth,7,,7
+Peterborough,Asphodel-Norwood,1,,1
+Peterborough,Cavan Monaghan,3,1,4
+Peterborough,Douro-Dummer,8,,8
+Peterborough,Havelock-Belmont-Methuen,1,,1
+Peterborough,North Kawartha,1,1,2
+Peterborough,Peterborough,149,185,334
+Peterborough,Smith-Ennismore-Lakefield,3,1,4
+Peterborough,Trent Lakes,3,,3
+Prescott and Russell,Alfred and Plantagenet,7,,7
+Prescott and Russell,Champlain,2,,2
+Prescott and Russell,Clarence-Rockland,18,,18
+Prescott and Russell,East Hawkesbury,1,,1
+Prescott and Russell,Hawkesbury,58,45,103
+Prescott and Russell,Russell,12,1,13
+Prescott and Russell,The Nation / La Nation,19,,19
+Prince Edward,Prince Edward County,18,3,21
+Rainy River,Atikokan,8,4,8
+Rainy River,Chapple,2,,2
+Rainy River,Fort Frances,15,,19
+Rainy River,Rainy River,3,,3
+Renfrew,Arnprior,22,2,24
+Renfrew,Bonnechere Valley,1,,1
+Renfrew,Deep River,9,1,10
+Renfrew,Greater Madawaska,3,,3
+Renfrew,"Killaloe, Hagarty and Richards",3,,3
+Renfrew,Madawaska Valley,7,,7
+Renfrew,Pembroke,52,41,93
+Renfrew,Petawawa,14,3,17
+Renfrew,Renfrew,27,10,37
+Renfrew,Whitewater Region,3,1,4
+Simcoe,Barrie,193,243,436
+Simcoe,Bradford West Gwillimbury,25,,25
+Simcoe,Clearview,12,1,13
+Simcoe,Collingwood,49,19,68
+Simcoe,Essa,11,2,13
+Simcoe,Innisfil,10,1,11
+Simcoe,Midland,53,9,62
+Simcoe,New Tecumseth,46,14,60
+Simcoe,Orillia,82,65,147
+Simcoe,Penetanguishene,21,24,45
+Simcoe,Ramara,1,,1
+Simcoe,Severn,2,3,5
+Simcoe,Springwater,8,2,10
+Simcoe,Tay,2,1,3
+Simcoe,Tiny,1,,1
+Simcoe,Wasaga Beach,22,,22
+"Stormont, Dundas and Glengarry",Akwesasne (Part) 59,1,1,2
+"Stormont, Dundas and Glengarry",Cornwall,62,58,120
+"Stormont, Dundas and Glengarry",North Dundas,36,11,47
+"Stormont, Dundas and Glengarry",North Glengarry,13,,13
+"Stormont, Dundas and Glengarry",North Stormont,5,,5
+"Stormont, Dundas and Glengarry",South Dundas,7,2,9
+"Stormont, Dundas and Glengarry",South Stormont,2,,2
+Sudbury,Chapleau,3,1,3
+Sudbury,Espanola,7,,8
+Sudbury,Sables-Spanish Rivers,2,,2
+Thunder Bay,Fort William 52,2,208,2
+Thunder Bay,Greenstone,8,,8
+Thunder Bay,Manitouwadge,3,,3
+Thunder Bay,Marathon,10,,10
+Thunder Bay,Schreiber,2,,2
+Thunder Bay,Terrace Bay,2,,2
+Thunder Bay,Thunder Bay,171,,379
+Thunder Bay,"Thunder Bay, Unorganized",3,,3
+Timiskaming,Charlton and Dack,5,,5
+Timiskaming,Coleman,1,,1
+Timiskaming,Kirkland Lake,9,1,10
+Timiskaming,Latchford,1,,1
+Timiskaming,Temiskaming Shores,21,3,24
+Toronto,Toronto,3688,5938,9626
+Waterloo,Cambridge,149,113,262
+Waterloo,Kitchener,272,290,562
+Waterloo,North Dumfries,6,,6
+Waterloo,Waterloo,120,78,198
+Waterloo,Wellesley,3,,3
+Waterloo,Wilmot,9,,9
+Waterloo,Woolwich,13,1,14
+Wellington,Centre Wellington,45,12,57
+Wellington,Erin,9,,9
+Wellington,Guelph,191,162,353
+Wellington,Guelph/Eramosa,3,,3
+Wellington,Mapleton,4,,4
+Wellington,Minto,5,,5
+Wellington,Puslinch,2,,2
+Wellington,Wellington North,10,1,11
+York,Aurora,59,11,70
+York,East Gwillimbury,14,1,15
+York,Georgina,25,1,26
+York,King,14,2,16
+York,Markham,287,279,566
+York,Newmarket,127,253,380
+York,Richmond Hill,222,265,487
+York,Vaughan,292,198,490
+York,Whitchurch-Stouffville,24,3,27
