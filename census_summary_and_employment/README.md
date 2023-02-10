@@ -3,11 +3,12 @@
 1. Purpose
 2. Of Note
 3. Assumptions and Requirements
-4. Instructions
 
 ## Purpose
 
 This project uses census data to investigate the best place to live in Ontario, broken down by economic region and city.
+
+This piece of the project involves cleaning census data, wage data, and employment data for cities (the census data) or economic regions (wage and employment data) in Ontario.
 
 This data is all from the year 2021.
 
@@ -26,5 +27,8 @@ The exception to this is a csv with the breakdown of Census Divisions in each Ec
 
 ## Assumptions and Requirements 
 
+This is written in jupyter notebook, and requires python and pandas. 
 
-## Instructions 
+A Resources folder is required, containing the breakdown of economic regions into census divisions.
+
+An Outputs folder is required to hold the cleaned csv files.
