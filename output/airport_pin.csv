@@ -1,0 +1,404 @@
+,AIRPORT_TYPE,NAME,AIRPORT_IDENT,LATITUDE,LONGITUDE
+0,Airport,Elmira (East),CPG4,43.5943156,80.51184559999999
+1,Airport,Elmira,CNT6,43.5845378,80.60210749999999
+2,Airport,Sandy Lake,CZSJ,53.0638353,93.3441318
+3,Airport,Deer Lake,CYVZ,52.654512,94.0594386
+4,Airport,Keewaywin,CPV8,52.990883600000004,92.8355983
+5,Airport,North Spirit Lake,CKQ3,52.488358999999996,92.9691057
+6,Airport,Poplar Hill,CPV7,52.1134537,94.25614190000002
+7,Airport,Pikangikum,CYPM,51.8197766,93.97350870000001
+8,Airport,Pelee Island,CYPT,41.7785937,82.6758797
+9,Hospital Heliport,Port Colborne (General Hospital),CPX5,42.8793117,79.25679090000001
+10,Airport,Brantford,CYFD,43.131713399999995,80.34178829999999
+11,Airport,Stratford Muni,CNM4,43.416866399999996,80.93418759999999
+12,Hospital Heliport,Mount Forest (Louise Marshall Hospital),CPA2,43.9742741,80.7376404
+13,Airport,Arthur (Walter's Field),CPC3,43.8377779,80.4403653
+14,Airport,Orton/Smith Field,CPS7,43.77374520000001,80.229099
+15,Hospital Heliport,Fergus (Groves Memorial Community Hospital),CPB2,43.7225123,80.3752988
+16,Airport,Fergus (Juergensen Field),CPG7,43.73584279999999,80.44808570000001
+17,Airport,Palmerston,CPR3,43.853924400000004,80.7827685
+18,Hospital Heliport,Palmerston (District Hospital),CPA3,43.838718799999995,80.84296529999999
+19,Airport,Fordwich,CPH9,43.8870641,80.99600629999999
+20,Airport,Listowel,CPN5,43.738484899999996,80.9956652
+21,Airport,Atwood,CNN4,43.6936894,81.0021215
+22,Airport,Ethel,CPD2,43.7436995,81.17758719999999
+23,Airport,Atwood/Coghlin,CAT1,43.6838167,81.0034072
+24,Airport,Brussels (Armstrong Field),CPD4,43.7478444,81.2381168
+25,Airport,Wingham/Richard W. LeVan,CPR7,43.8656348,81.3005098
+26,Airport,Goderich,CYGD,43.7665623,81.71189040000002
+27,Airport,Sexsmith/Exeter,CSX7,43.375955499999996,81.5057927
+28,Airport,Centralia/James T. Field Memorial,CYCE,43.2856339,81.50452890000001
+29,Airport,Grand Bend,CPL4,43.2902282,81.7161574
+30,Heliport,Niagara Falls,CPQ3,43.1186709,79.07543270000001
+31,Hospital Heliport,Bowmanville (Memorial Hospital),CPL7,43.9092999,78.67793449999999
+32,Airport,Toronto/Oshawa Muni,CYOO,43.9224508,78.8956574
+33,Hospital Heliport,Port Perry (Community Memorial Hospital),CPX6,44.105188899999995,78.9544476
+34,Hospital Heliport,Ajax (Pickering General Hospital),CPE2,43.8368582,79.0171647
+35,Airport,Greenbank,CNP8,44.1348326,79.0133687
+36,Hospital Heliport,Uxbridge (Cottage Hospital),CNA5,44.102427,79.1288831
+37,Airport,Toronto/Markham,CNU8,43.9359548,79.2618882
+38,Hospital Heliport,Markham Stouffville,CPH7,43.8831229,79.2327007
+39,Airport,Toronto/Buttonville Municipal,CYKZ,43.861155,79.36954159999999
+40,Airport,Baldwin,CPB9,44.2693056,79.34145009999999
+41,Airport,Holland Landing Airpark,CLA4,44.0887292,79.4947415
+42,Heliport,Bolton,CNB2,43.8510234,79.6939824
+43,Heliport,"Brampton (National ""D"")",CPC4,43.832346799999996,79.701753
+44,Heliport,"Brampton (National ""P"")",CPM2,43.8123564,79.6998613
+45,Airport,Toronto/Downsview,CYZD,43.7432763,79.4664825
+46,Airport,Keene/Elmhirst`s Resort,CPS2,44.2518273,78.10618640000001
+47,Airport,Stirling,CPJ5,44.2417401,77.55966009999999
+48,Airport,Trenton,CYTR,44.118850099999996,77.5333515
+49,Airport,Wyoming (Reeces Corners),CPM6,42.9753889,82.13649000000001
+50,Heliport,Milton (Afi),CMH2,43.5322028,79.9022298
+51,Airport,Edenvale,CNV8,44.4371871,79.96334240000002
+52,Airport,Cookstown,CCT2,44.2374764,79.63962640000001
+53,Airport,Barrie-Orillia (Lake Simcoe Regional),CYLS,44.487742100000006,79.5548204
+54,Airport,Trenton/Mountain View,CPZ3,44.0694721,77.33991999999999
+55,Airport,Belleville,CNU4,44.1925124,77.308826
+56,Airport,Tyendinaga (Mohawk),CPU6,44.1839199,77.105698
+57,Airport,Picton,CNT7,43.9881739,77.1346425
+58,Airport,Kingston,CYGK,44.2256257,76.5984845
+59,Hospital Heliport,Kingston (General Hospital),CPJ7,44.2222104,76.4934327
+60,Airport,Gananoque,CNN8,44.400527600000004,76.24216990000001
+61,Hospital Heliport,Toronto (St. Michael`s Hospital),CTM4,43.653622600000006,79.3778318
+62,Heliport,Borden,CYBN,44.27159520000001,79.91238790000001
+63,Airport,Bradford,CPM7,44.135641899999996,79.6286695
+64,Airport,Plevna/Tomvale,CNA9,44.916287100000005,76.934731
+65,Airport,Bancroft,CNW3,45.0735745,77.88118490000001
+66,Hospital Heliport,Bancroft (North Hastings District Hospital),CPB7,45.071388899999995,77.8788889
+67,Hospital Heliport,Haliburton (Hospital),CNF2,45.0380715,78.53010490000001
+68,Airport,Haliburton/Stanhope Muni,CND4,45.1113427,78.6418809
+69,Hospital Heliport,Minden (Hospital),CMI2,44.9251299,78.7302223
+70,Airport,Muskoka,CYQA,44.969506700000004,79.30012090000001
+71,Hospital Heliport,Bracebridge (South Muskoka Memorial Hospital),CPL2,45.04752,79.3145526
+72,Hospital Heliport,Huntsville (Memorial District Hospital),CPC9,45.339179,79.2058536
+73,Airport,Huntsville/Deerhurst Resort,CDH1,45.3533639,79.1538533
+74,Airport,Emsdale,CNA4,45.5455506,79.34317659999999
+75,Airport,Windermere,CNW2,45.1617222,79.5362309
+76,Airport,South River/Sundridge,CPE6,45.823991299999996,79.3230277
+77,Airport,Parry Sound Area Muni,CNK4,45.2600971,79.8345708
+78,Hospital Heliport,Parry Sound Medical,CRS2,45.3409146,80.0158931
+79,Airport,Westport/Rideau Lakes,CRL2,44.6649384,76.3994514
+80,Hospital Heliport,Perth (Great War Memorial Hospital),CNC9,44.9062164,76.25291690000002
+81,Hospital Heliport,Smiths Falls (Community Hospital),CNS9,44.9072862,76.02733190000001
+82,Airport,Smiths Falls-Montague (Russ Beach),CYSH,44.946350200000005,75.9401607
+83,Airport,Brockville-Thousand Islands Regional Tackaberry,CNL3,44.639304200000005,75.7537574
+84,Airport,Carleton Place,CNR6,45.1050568,76.1253202
+85,Hospital Heliport,Carleton Place (District Memorial Hospital),CPN7,45.1415,76.1369217
+86,Heliport,Ottawa/Dwyer Hill,CYDH,45.1330546,75.9497901
+87,Airport,Ottawa/Carp,CYRP,45.3190118,76.0253408
+88,Airport,Ottawa/Rockcliffe,CYRO,45.460063,75.6431568
+89,Hospital Heliport,Ottawa (Children`s Hospital),CPK7,45.401050299999994,75.6515092
+90,Airport,Ottawa/Macdonald-Cartier Intl,CYOW,45.3217489,75.670113
+91,Airport,Kars/Rideau Valley Air Park,CPL3,45.101676899999994,75.6297572
+92,Hospital Heliport,Ottawa (Civic Hospital),CPP7,45.3915135,75.72059820000001
+93,Airport,Iroquois,CNP7,44.8420919,75.31231700000001
+94,Airport,Winchester,CNA8,45.045006799999996,75.3028479
+95,Airport,Ottawa/Embrun,CPR2,45.239970899999996,75.3019736
+96,Airport,Morrisburg,CNS8,44.947207299999995,75.0766496
+97,Airport,Pendleton,CNF3,45.4873148,75.094084
+98,Airport,Hawkesbury (Windover Field),CPD8,45.5653566,74.8091307
+99,Airport,Hawkesbury,CNV4,45.6166695,74.64780259999999
+100,Airport,Alexandria,CNS4,45.3302908,74.6230812
+101,Hospital Heliport,Cornwall (Community Hosp McConnell Site),CPS6,45.0305919,74.718161
+102,Airport,Cornwall Regional,CYCC,45.0924559,74.5666505
+103,Airport,Hawkesbury (East),CPG5,45.5839636,74.54905190000001
+104,Airport,Deep River/Rolph,CPH2,46.1162478,77.5272505
+105,Airport,Petawawa,CYWA,45.948915500000005,77.3149259
+106,Airport,Pembroke,CYTA,45.864974200000006,77.2520258
+107,Hospital Heliport,Pembroke (Regional Hosp),CNG5,45.8151975,77.1079456
+108,Airport,Barry's Bay/Madawaska Valley Airpark,CNZ4,45.5046724,77.644494
+109,Hospital Heliport,Barry`s Bay (St. Francis Memorial Hospital),CPV6,45.4822715,77.6947716
+110,Airport,Cobden/Bruce McPhail Memorial,CPF4,45.5953588,76.833973
+111,Hospital Heliport,Renfrew (Victoria Hospital),CPG9,45.4825101,76.6986728
+112,Airport,Arnprior/South Renfrew Muni,CNP3,45.4129276,76.3661524
+113,Airport,Mattawa,CMA2,46.3011263,78.7484902
+114,Airport,North Bay,CYYB,46.3649565,79.4239864
+115,Airport,Arnstein,CNR9,45.9254324,79.9279383
+116,Hospital Heliport,Sturgeon Falls (West Nipissing General Hospital),CNM3,46.373014899999994,79.91671159999999
+117,Hospital Heliport,New Liskeard (Temiskaming Hospital),CNV3,47.4950201,79.6929126
+118,Airport,Gore Bay-Manitoulin,CYZE,45.8838219,82.5698088
+119,Hospital Heliport,Mindemoya (Hospital),CNW4,45.738889,82.16666670000001
+120,Hospital Heliport,Little Current (Manitoulin Health Centre),CNT4,45.978632,81.92643149999999
+121,Airport,Manitowaning/Manitoulin East Muni,CYEM,45.841610100000004,81.85921540000001
+122,Airport,Killarney,CPT2,45.9787085,81.4923441
+123,Airport,Sudbury/Coniston,CSC9,46.4813892,80.8341542
+124,Airport,Sudbury,CYSB,46.628105700000006,80.7978332
+125,Airport,Elk Lake,CPE3,47.7295122,80.3149702
+126,Airport,Earlton (Timiskaming Regional),CYXR,47.6954641,79.85021280000001
+127,Hospital Heliport,Englehart (District Hospital),CNS3,47.8230073,79.8799939
+128,Airport,Kirkland Lake,CYKX,48.2099771,79.9783585
+129,Airport,Timmins/Victor M. Power,CYTS,48.5714223,81.3696907
+130,Airport,Chapleau,CYLD,47.821340899999996,83.3526835
+131,Hospital Heliport,Toronto (Sunnybrook Medical Centre),CNY8,43.7228757,79.3736935
+132,Hospital Heliport,Toronto (Hospital For Sick Children),CNW8,43.6572856,79.3875453
+133,Airport,Toronto/ Billy Bishop Toronto City Airport,CYTZ,43.626158000000004,79.3967253
+134,Heliport,Toronto/Wilson`s,CPY5,43.6177669,79.5648402
+135,Airport,Toronto/Lester B. Pearson Intl,CYYZ,43.6775546,79.6303834
+136,Heliport,Toronto/Tarten,CPA5,43.6535347,79.6584318
+137,Hospital Heliport,Toronto (Mississauga Credit Valley Hospital),CPK6,43.5614533,79.70290159999999
+138,Hospital Heliport,Oakville (Trafalgar Memorial Hospital),CPE8,43.484485799999995,79.6673407
+139,Airport,Burlington Executive,CZBA,43.4418401,79.850497
+140,Hospital Heliport,Milton (District Hospital),CPY2,43.4967201,79.8689712
+141,Hospital Heliport,Georgetown (Georgetown & District Hospital),CNZ6,43.64477539999999,79.9338302
+142,Airport,Brampton,CNC3,43.75897379999999,79.87456170000002
+143,Airport,Wiarton,CYVV,44.744946999999996,81.1049865
+144,Airport,Owen Sound/Billy Bishop Regional,CYOS,44.5916239,80.8378151
+145,Hospital Heliport,Owen Sound (Grey Bruce Health Services),CNK6,44.5695653,80.9115213
+146,Airport,Southampton,CPF7,44.492617100000004,81.3342993
+147,Airport,Port Elgin (Pryde Field),CPG6,44.4596195,81.37915759999998
+148,Airport,Port Elgin,CNL4,44.4138089,81.4174051
+149,Airport,Kincardine,CNS7,44.2021034,81.6036647
+150,Hospital Heliport,Kincardine (South Bruce Grey Health Centre),CPU2,44.1885134,81.6249673
+151,Airport,Kincardine/Shepherd's Landing,CKS9,44.1169381,81.695047
+152,Airport,Lucknow Airpark,CLK3,43.9678391,81.4930995
+153,Airport,Teeswater (Thompson Field),CPC6,43.949194,81.2721431
+154,Hospital Heliport,Walkerton (County Of Bruce General Hospital),CNG6,44.121976700000005,81.1526999
+155,Airport,Hanover/Saugeen Muni,CPN4,44.157933,81.0621902
+156,Hospital Heliport,Hanover (District Hospital),CNZ7,44.1413342,81.0295365
+157,Hospital Heliport,Durham (Memorial Hospital),CPD3,44.179937100000004,80.82979809999999
+158,Hospital Heliport,Markdale (Centre Grey General Hospital),CPD9,44.3149545,80.6553549
+159,Hospital Heliport,Meaford (General Hospital),CPA7,44.605834200000004,80.5998963
+160,Hospital Heliport,Collingwood (General and Marine Hospital),CPP2,44.4999064,80.2030527
+161,Airport,Collingwood,CNY3,44.4476755,80.15957809999999
+162,Hospital Heliport,Midland (Huronia District Hospital),CPW6,44.7421455,79.91362679999999
+163,Airport,Midland/Huronia,CYEE,44.683587599999996,79.92932009999998
+164,Airport,Wyevale (Boker Field),CNL8,44.65601420000001,79.8785359
+165,Airport,New Lowell,CPE7,44.3869741,79.94343690000001
+166,Airport,Mansfield,CPV4,44.144187200000005,80.01065279999999
+167,Airport,Shelburne/Fisher Field,CNN3,44.029295,80.2017082
+168,Airport,Orangeville/Murray Wesley Kot Field,CPV2,43.9602254,80.1546896
+169,Airport,Tottenham/Volk,CPM5,43.9935244,79.7804224
+170,Hospital Heliport,Alliston (Stevenson Memorial Hospital),CPZ2,44.1555886,79.8747538
+171,Heliport,Alliston,CPJ2,44.14267460000001,79.80440250000001
+172,Airport,Alliston,CNY4,44.1830164,79.8387463
+173,Airport,Lefroy,CPQ4,44.2927974,79.547626
+174,Hospital Heliport,Barrie (Royal Victoria Hosp),CRV2,44.4147479,79.6623852
+175,Heliport,Orillia (Ontario Provincial Police),COP2,44.5867936,79.43452629999999
+176,Airport,Lindsay,CNF4,44.3646069,78.78170190000002
+177,Airport,Peterborough,CYPQ,44.2294269,78.36623879999999
+178,Hospital Heliport,Peterborough (Regional Health Centre),CNU3,44.299491700000004,78.3488526
+179,Hospital Heliport,Cobourg (Northumberland Hills Hospital),CNB4,43.977800200000004,78.1983859
+180,Airport,Red Lake,CYRL,51.0675546,93.7922037
+181,Hospital Heliport,Red Lake (Margaret Cochenour Mem Hospital),CRL3,51.01315220000001,93.82212259999999
+182,Hospital Heliport,Hagersville (West Haldimand General Hospital),CPA6,42.9584117,80.0448303
+183,Airport,Simcoe (Dennison Field),CPA4,42.819744299999996,80.264211
+184,Hospital Heliport,Simcoe (Norfolk Gen Hospital),CPA8,42.8472722,80.31931850000001
+185,Airport,Nixon,CNX8,42.8471842,80.3951506
+186,Airport,Tillsonburg,CNQ4,42.9264815,80.75044609999999
+187,Airport,Straffordville,CNS6,42.7400794,80.81690649999999
+188,Airport,Woodstock,CPR5,43.10692720000001,80.8228558
+189,Airport,St. Thomas Muni,CYQS,42.7701223,81.1071073
+190,Airport,London/Chapeskie Field,CLC2,43.0682433,81.12590250000001
+191,Airport,London,CYXU,43.0341116,81.14904190000001
+192,Hospital Heliport,London (Victoria Hospital),CPW2,42.9603861,81.2253995
+193,Hospital Heliport,London (University Hospital),CPR4,43.0133287,81.27496409999999
+194,Airport,Lucan,CPS4,43.1628239,81.4119282
+195,Airport,Strathroy (Blue Yonder),CPK2,42.966109100000004,81.5906318
+196,Airport,Melbourne,CNM2,42.824276399999995,81.54915109999999
+197,Airport,Rodney (New Glasgow),CPU3,42.5323372,81.6058566
+198,Airport,Highgate,CNA2,42.5525901,81.80348609999999
+199,Airport,Sarnia (Chris Hadfield),CYZR,42.9990599,82.3084934
+200,Hospital Heliport,Chatham (Public General Hospital),CPG8,42.404363399999994,82.1940587
+201,Airport,Chatham-Kent,CNZ3,42.305235700000004,82.0803254
+202,Airport,Stoney Point (Le Cunff),CRML,42.2974779,82.5338541
+203,Airport,Leamington,CLM2,42.024755400000004,82.5247177
+204,Airport,Cottam,CRB2,42.139856099999996,82.65377609999999
+205,Airport,Windsor,CYQG,42.2761943,82.9432382
+206,Airport,Essex,CNE9,42.0961733,82.87951009999999
+207,Airport,Harrow,CGL2,42.0575665,82.8394895
+208,Airport,Fort Erie,CNJ3,42.9175314,78.95536750000001
+209,Heliport,Fort Erie (Eurocopter Canada),CPG3,42.921352500000005,78.95646579999999
+210,Airport,Niagara Falls/Niagara South,CNF9,42.9996864,79.06235749999999
+211,Airport,St. Catharines/Niagara District,CYSN,43.1916445,79.17169709999999
+212,Hospital Heliport,Welland (County General Hospital),CPB3,42.9788172,79.2490654
+213,Airport,Welland/Niagara Central,CNQ3,42.9788994,79.3234047
+214,Airport,Port Colborne,CPE5,42.877254,79.3533547
+215,Airport,Dunnville,CDU9,42.875353999999994,79.594611
+216,Hospital Heliport,Dunnville (Haldimand War Memorial Hospital),CPA9,42.9154864,79.629626
+217,Airport,Grimsby Air Park,CNZ8,43.1595195,79.5991016
+218,Airport,Stoney Creek,CPF6,43.1698081,79.7068327
+219,Airport,York,CPP6,43.0406222,79.8530307
+220,Airport,Hamilton,CYHM,43.1719228,79.92997940000001
+221,Hospital Heliport,Hamilton (General Hospital),CPK3,43.2624625,79.8541113
+222,Hospital Heliport,Hamilton (Chedoke-McMaster Hospitals),CPJ3,43.2633225,79.9277848
+223,Airport,Rockton,CPT3,43.3226884,80.1759399
+224,Airport,Cambridge/Reid`s Field,CPE4,43.442676299999995,80.2312272
+225,Airport,Guelph,CNC4,43.5631836,80.19465490000002
+226,Airport,Kitchener/Waterloo,CYKF,43.4602925,80.380436
+227,Hospital Heliport,Kitchener-Waterloo (Grand River Hosp),CNK9,43.452703799999995,80.5048413
+228,Airport,Wawa,CYXZ,47.965719799999995,84.7897948
+229,Airport,Hornepayne Muni,CYHN,49.1958608,84.754839
+230,Hospital Heliport,Manitouwadge (General Hospital),CPU4,49.127699299999996,85.8243605
+231,Airport,Manitouwadge,CYMG,49.078601899999995,85.8668908
+232,Airport,Kapuskasing,CYYU,49.4108523,82.4677698
+233,Airport,Hearst (René Fontaine) Muni,CYHF,49.714644,83.6898213
+234,Airport,Carey Lake,CNX3,49.7446502,84.0310748
+235,Airport,Iroquois Falls,CNE4,48.7418471,80.7930058
+236,Airport,Cochrane,CYCN,49.107599,81.0127309
+237,Airport,Moosonee,CYMO,51.2928539,80.60729029999999
+238,Heliport,Moose Factory,CPN3,51.2521866,80.61794920000001
+239,Airport,Fort Albany,CYFA,52.203545399999996,81.6869057
+240,Airport,Kashechewan,CZKE,52.282747,81.6758796
+241,Airport,Attawapiskat,CYAT,52.927395499999996,82.4314881
+242,Airport,Peawanuck,CYPO,54.9898728,85.4402178
+243,Airport,Fort Severn,CYER,56.018518500000006,87.67630229999999
+244,Hospital Heliport,Marathon (Wilson Memorial Hospital),CPX2,48.7184489,86.3752637
+245,Airport,Marathon,CYSP,48.7589653,86.3435803
+246,Hospital Heliport,Nipigon (District Memorial Hospital),CKE9,49.0160836,88.2785588
+247,Hospital Heliport,Beardmore (Health Centre),CPY3,49.610169,87.9521027
+248,Hospital Heliport,Geraldton (District Hospital),CPJ4,49.723581200000005,86.9564355
+249,Airport,Geraldton (Greenstone Regional),CYGQ,49.7774536,86.93667509999999
+250,Airport,Nakina,CYQN,50.1784063,86.69403709999999
+251,Airport,Ogoki Post,CNT3,51.65827120000001,85.9021801
+252,Airport,Fort Hope,CYFH,51.5616416,87.9087358
+253,Airport,Miminiska,CPS5,51.6042245,88.5825828
+254,Airport,Lansdowne House,CYLH,52.1959441,87.9333061
+255,Airport,Summer Beaver,CJV7,52.71091750000001,88.5425138
+256,Airport,Webequie,CYWP,52.958648,87.3746306
+257,Airport,Kasabonika,CYAQ,53.524786,88.6427184
+258,Heliport,Armstrong,CPE9,50.3073214,89.029206
+259,Airport,Armstrong,CYYW,50.2906275,88.91077800000001
+260,Heliport,Upsala,CKL8,49.050278000000006,90.469167
+261,Airport,Kakabeka Falls,CKG8,48.4196931,89.59743309999999
+262,Airport,Thunder Bay,CYQT,48.3730774,89.3234975
+263,Hospital Heliport,Thunder Bay (Health Science Centre),CTB2,48.424479,89.26916170000001
+264,Hospital Heliport,Atikokan (General Hospital),CKF3,48.7553463,91.59688359999998
+265,Airport,Atikokan Muni,CYIB,48.7719471,91.6369882
+266,Airport,Fort Frances Muni,CYAG,48.6555574,93.4417261
+267,Airport,Nestor Falls,CJA5,49.140210700000004,93.91706409999999
+268,Airport,Sioux Narrows,CKM2,49.389992799999995,93.99639499999999
+269,Airport,Kenora,CYQK,49.7893856,94.3618927
+270,Hospital Heliport,Kenora (Lake Of The Woods District Hospital),CJG6,49.7681364,94.499142
+271,Heliport,Ignace,CJN3,49.4075316,91.6348828
+272,Airport,Ignace Muni,CZUC,49.428851,91.717309
+273,Airport,Dryden Regional,CYHD,49.830617600000004,92.7430941
+274,Heliport,Dryden Best Western,CKV3,49.7874097,92.8339234
+275,Airport,Eagle River,CKX3,49.758908899999994,93.1432286
+276,Airport,Vermilion Bay,CKQ7,49.882032,93.436299
+277,Airport,Sioux Lookout,CYXL,50.1179505,91.904074
+278,Airport,De Lesseps Lake,CKF9,50.7176059,90.6839431
+279,Airport,Slate Falls,CKD9,51.13037,91.66635
+280,Airport,Pickle Lake,CYPL,51.4449052,90.21941190000001
+281,Airport,Cat Lake,CYAC,51.7271554,91.8251412
+282,Airport,Opapimiskan Lake,CKM8,52.60890989999999,90.3768484
+283,Airport,Kingfisher Lake,CNM5,53.012310600000006,89.85423540000001
+284,Airport,Wunnumin Lake,CKL3,52.8929608,89.2888733
+285,Airport,Round Lake (Weagamow Lake),CZRJ,52.9453686,91.311098
+286,Airport,Muskrat Dam,CZMD,53.4414948,91.7627486
+287,Airport,Sachigo Lake,CZPB,53.890574,92.1956781
+288,Airport,Bearskin Lake,CNE3,53.9663372,91.0251303
+289,Airport,Big Trout Lake,CYTL,53.8179546,89.8969184
+290,Airport,Angling Lake/Wapekeka,CKB6,53.84784200000001,89.5765943
+291,Airport,Elliot Lake Muni,CYEL,46.3518716,82.5619099
+292,Airport,Thessalon Muni,CPL5,46.31634329999999,83.532617
+293,Airport,St. Joseph Island,CPV3,46.2817365,83.9495053
+294,Airport,Bar River,CPF2,46.4195136,84.09756490000001
+295,Heliport,Sault Ste. Marie,CNR3,46.504745299999996,84.323921
+296,Airport,Sault Ste. Marie,CYAM,46.485832099999996,84.50645209999999
+297,Airport,Springwater (Barrie Airpark),CNA3,44.4078823,79.7311998
+298,Heliport,Toronto/Cardinal Couriers,CPL8,43.6313889,79.6647222
+299,Seaplane Base,Grand River,CNC6,43.086111100000004,80.0516667
+300,Seaplane Base,Constance Lake,CNQ5,45.4027778,75.97555559999999
+301,Seaplane Base,Combermere/Kamaniskeg Lake,CNP5,45.3833333,77.65
+302,Seaplane Base,Haliburton,CNF6,45.0083333,78.5666667
+303,Seaplane Base,Head Lake,CPV5,44.721388899999994,78.9108333
+304,Airport,Orillia,CNJ4,44.677105700000006,79.3105378
+305,Seaplane Base,Dorset/Kawagama Lake (Old Mill Marina),CNK5,45.267304700000004,78.8094892
+306,Seaplane Base,Arnprior,CNB5,45.407820799999996,76.3598768
+307,Seaplane Base,Huntsville/Bella Lake,CPY7,45.45271760000001,79.0248169
+308,Seaplane Base,Gananoque,CGN1,44.325,76.1569444
+309,Seaplane Base,Keene/Elmhirst`s Resort,CNQ6,44.25146229999999,78.1041743
+310,Seaplane Base,Renfrew/Hurds Lake,CNL6,45.4039062,76.64845770000001
+311,Seaplane Base,Renfrew/Black Donald Lake,CPK8,45.21073,76.95830759999998
+312,Seaplane Base,Gooderham/Pencil Lake,CNN7,44.8064508,78.3514448
+313,Seaplane Base,Orillia/Lake St John,CNV6,44.681621299999996,79.3076379
+314,Seaplane Base,Port Stanton/Sparrow Lake,CNX7,44.798235999999996,79.4114737
+315,Seaplane Base,Orillia/Matchedash Lake,CPU5,44.789213200000006,79.4999332
+316,Seaplane Base,Huntsville,CNU6,45.317566,79.2590687
+317,Seaplane Base,Skeleton Lake,CPQ7,45.2319445,79.43611109999999
+318,Seaplane Base,Lake Muskoka/Alport Bay,CLM3,45.021111100000006,79.3827778
+319,Seaplane Base,Lake Rosseau/Windermere,CNP2,45.15824,79.5325666
+320,Seaplane Base,Lake Rosseau/Arthurlie Bay,CPF9,45.111870200000006,79.55123990000001
+321,Seaplane Base,Lake Muskoka/Mortimer`s Point,CNC7,45.05,79.56111109999999
+322,Seaplane Base,Lake Muskoka/Dudley Bay,CNT5,45.0331034,79.6020157
+323,Seaplane Base,Port Carling/Butterfly Lake,CPY8,45.093888899999996,79.6305556
+324,Seaplane Base,Bala/Gibson Lake,CGL3,44.948705,79.7265802
+325,Seaplane Base,Lake Rosseau/Cameron Bay,CPQ6,45.2526076,79.65756
+326,Seaplane Base,Mac Tier/Francis Island,CPZ7,45.1502778,80.0191667
+327,Seaplane Base,Parry Sound/Huron Island,CPS8,45.180765,80.1070449
+328,Seaplane Base,Parry Sound/Frying Pan Island-Sans Souci,CPS9,45.1742348,80.1376375
+329,Seaplane Base,Parry Sound/Derbyshire Island,CDS6,45.2444341,80.1548837
+330,Seaplane Base,Parry Sound Harbour,CPS1,45.339226700000005,80.0350131
+331,Seaplane Base,Nobel/Sawdust Bay,CNT2,45.4021191,80.1265803
+332,Seaplane Base,Parry Sound/Deep Bay,CPT8,45.398611100000004,80.1819444
+333,Seaplane Base,Portage Lake,CND9,45.7737888,80.2404911
+334,Seaplane Base,Smoky Lake,CNS2,45.8594946,80.23529549999999
+335,Seaplane Base,Mattawa,CPT7,46.3113889,78.72277779999999
+336,Seaplane Base,North Bay,CNH7,46.3312807,79.4012358
+337,Seaplane Base,Temagami,CNC8,47.0627539,79.79340529999999
+338,Seaplane Base,Manitowaning,CPJ9,45.742180499999996,81.8040906
+339,Seaplane Base,Little Current,CNZ9,45.9847922,81.9590937
+340,Seaplane Base,Sudbury/ Azilda,CNC5,46.5410696,81.13143000000001
+341,Seaplane Base,Algoma Mills,CPN6,46.188076099999996,82.8240775
+342,Seaplane Base,Bar River,CNE5,46.42426270000001,84.1032453
+343,Seaplane Base,Sault Ste. Marie/Partridge Point,CNV7,46.517539500000005,84.246178
+344,Seaplane Base,Sault Ste. Marie,CPX8,46.5029773,84.32487840000002
+345,Seaplane Base,Batchawana,CNF5,46.919136200000004,84.6061457
+346,Seaplane Base,Five Mile Lake,CNY5,47.55778170000001,83.22196020000001
+347,Seaplane Base,Timmins/Porcupine Lake,CPW5,48.477536900000004,81.20559229999999
+348,Seaplane Base,Gowganda Lake,CPL6,47.650555600000004,80.78527779999999
+349,Seaplane Base,Elk Lake,CNV5,47.7287047,80.32325240000002
+350,Seaplane Base,Perry Lake,CPT6,48.5325,80.10722220000001
+351,Seaplane Base,Hawk Junction,CNH6,48.071885200000004,84.5519426
+352,Seaplane Base,White River,CNJ8,48.6269445,85.2233333
+353,Seaplane Base,Granitehill Lake,CND6,49.097340100000004,85.20269990000001
+354,Seaplane Base,Hornepayne,CNJ6,49.189001899999994,84.8844852
+355,Seaplane Base,Pays Plat,CNM7,48.8756395,87.5810744
+356,Seaplane Base,Geraldton/Hutchison Lake,CNE6,49.7840331,86.9408776
+357,Seaplane Base,Nakina,CNE7,50.2168364,86.70832349999999
+358,Seaplane Base,Thunder Bay,CKE6,48.455209,89.17472679999999
+359,Seaplane Base,Kashabowie/Upper Shebandowan Lake,CKF5,48.6450836,90.4168983
+360,Seaplane Base,Cushing Lake,CJT7,48.9436237,90.4998595
+361,Seaplane Base,Armstrong/Waweig Lake,CKN6,50.1405778,89.1135342
+362,Seaplane Base,Armstrong,CJF6,50.2631085,89.0424122
+363,Seaplane Base,Atikokan,CJH6,48.7673469,91.6617486
+364,Seaplane Base,Lac la Croix,CJU9,48.35562,92.21375
+365,Seaplane Base,Sand Point Lake,CJD6,48.3417995,92.4539978
+366,Seaplane Base,Fort Frances,CJM8,48.6277778,93.3577778
+367,Seaplane Base,Rainy River,CKQ4,48.7193046,94.587626
+368,Seaplane Base,Burditt Lake,CJC7,48.9194283,93.80205090000001
+369,Seaplane Base,Nestor Falls/Sabaskong Bay,CKW3,49.1334993,93.9384517
+370,Seaplane Base,Kenora,CJM9,49.7669456,94.4928788
+371,Seaplane Base,Minaki/Pistol Lake,CKP3,49.9770915,94.7159581
+372,Seaplane Base,Stewart Lake,CKV5,49.826648299999995,93.7130755
+373,Seaplane Base,Vermilion Bay,CKH6,49.86892,93.4021538
+374,Seaplane Base,Dryden,CJD8,49.762290899999996,92.852407
+375,Seaplane Base,Ignace,CJD9,49.4132343,91.6759545
+376,Seaplane Base,Savant Lake (Sturgeon Lake),CJP3,50.1883336,90.6888114
+377,Seaplane Base,Hudson,CJA9,50.0921258,92.171745
+378,Seaplane Base,Sioux Lookout,CKA6,50.0922031,91.9126953
+379,Seaplane Base,Staunton Lake,CKK8,50.3791349,90.6533177
+380,Seaplane Base,Pickle Lake,CKG4,51.466386299999996,90.1994973
+381,Seaplane Base,Round Lake (Weagamow Lake),CKP6,52.9486115,91.3496322
+382,Seaplane Base,Ear Falls,CJE8,50.5807547,93.1660802
+383,Seaplane Base,Confederation Lake,CJL7,51.05096079999999,92.8226517
+384,Seaplane Base,Red Lake,CKS4,51.0200635,93.8229575
+385,Seaplane Base,Pikangikum,CKH4,51.7993277,93.99489940000001
+386,Seaplane Base,Deer Lake,CJA8,52.6177966,94.0451631
+387,Seaplane Base,Deer Lake/Keyamawun,CJZ7,52.682580099999996,94.4319499
+388,Seaplane Base,Sandy Lake,CKE5,53.05687420000001,93.3324384
+389,Seaplane Base,Big Hook Wilderness Camp,CJS6,53.5634645,92.9504507
+390,Seaplane Base,Toronto/Billy Bishop Toronto City Airport,CPZ9,43.633191499999995,79.3943548
+391,Seaplane Base,Hearst/Carey Lake,CNJ5,49.7440682,84.02444150000001
+392,Seaplane Base,Nestor Falls,CKT3,49.106906099999996,93.9193803
+393,Seaplane Base,Cochrane,CNN5,49.1016719,81.0228675
+394,Seaplane Base,Moosonee,CNB7,51.2610624,80.65520459999999
+395,Seaplane Base,Temagami/Mine Landing,CTM2,46.960577799999996,80.0247886
+396,Seaplane Base,Sudbury/Ramsey Lake,CNB8,46.480936799999995,80.98531990000001
+397,Seaplane Base,Port Loring,CNQ7,45.892171600000005,80.1027692
+398,Seaplane Base,Little Lake,CPT5,44.4188812,79.6652712
+399,Seaplane Base,Chapleau,CNL5,47.85,83.4
+400,Seaplane Base,Ottawa/Rockcliffe,CTR7,45.4635513,75.6425772
+401,Airport,Tobermory,CNR4,45.2209621,81.62799559999999
+402,Heliport,Sioux Lookout,CKF7,50.0762287,91.9182836
