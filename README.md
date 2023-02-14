@@ -1,7 +1,5 @@
 # project-1
 
-Measuring Quality of Life
-
 Death Registration
 	- Is there a coorelation with death rate + crime / accidents  in specific cities?
 
