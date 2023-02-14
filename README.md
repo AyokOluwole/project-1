@@ -88,10 +88,11 @@ We wished to study which region of Ontario was "best" when it came to economic f
 *Best Economic region in terms of  physicians availability are Northwest and Muskoka-Kawartha
 ## Violation count
 *There is a positive relationship between population and number of violation.
-*r-squared is 0.9![image](https://user-images.githubusercontent.com/119536290/218855292-b8c80c65-716a-4dc5-be99-ed2f08554cd7.png)
+*r-squared is 0.9
 *Highly populated areas are not safe to live in Ontario.
 *High risk area is Toronto with  84360 reported violation.
 *Low risk area is Guelph with  1570 reported violation.
+
 * Death Registered by Cities / Towns
    * Toronto had the highest deaths registered in a population of 5.6m while Marathon had the lowest deaths registered in a population of 3,000.
    * Cities with greater population had greater deaths registered.
