@@ -24,7 +24,7 @@ https://geohub.lio.gov.on.ca/datasets/lio::ministry-of-health-service-provider-l
 https://www.ontario.ca/page/paying-long-term-care
 https://www.advantageontario.ca/AAO/Content/Resources/Consumers/About_Long_Term_Care
 https://www.canada.ca/en/health-canada/services/home-continuing-care/long-term-facilities-based-care.html
-![image](https://user-images.githubusercontent.com/119383340/218883498-4a308451-d496-44a6-ad47-48244ff071da.png)
+
 
 ## Limitations and Other Remarks
 * Data sourced from Statistics Canada are frequently pre-aggregated and not offered at a record level, so error calculations are either done on a "best effort" or are unavailable.
@@ -115,37 +115,38 @@ We wished to study which region of Ontario was "best" when it came to economic f
 
 # Assessment of International Connection
 ## Inquiry
-## AAnalysis for Airports in Ontario, Retirement Homes & Long-Term Care homes
--	Why is this data needed 
+## Analysis for Airports in Ontario, Retirement Homes & Long-Term Care homes
+Analysis for Airports in Ontario
+Why is this data needed 
 Because we are looking at which city is the best to live in, we want to take number of airports into account. According to Stats Canada, in the year 2021, the Air passenger traffic at Toronto/Lester B Pearson International airport saw at least 12,368,926 total passengers who enplaned and deplaned. 
 Limitations 
--	In looking for data sets for airports in Ontario, there were a few limitations.
-1.	Ontario GeoHub provides a vast summary of official airports in Canada. And by their definition, ‘Airports’ includes Hospital Heliport, Airport, Seaplane Base and Heliport. Therefore, providing a range of different airport types in each city. 
-2.	In getting dataset from Ontario GeoHub, the data was created in 2012 but last updated in 2022. With this dataset, there were a few errors specifically with the latitude and longitude. When plotting the latitude and longitude from Ontario GeoHub, the map showed Russia and China. With this, it made the data incorrect
+In looking for data sets for airports in Ontario, there were a few limitations.
+Ontario GeoHub provides a vast summary of official airports in Canada. And by their definition, ‘Airports’ includes Hospital Heliport, Airport, Seaplane Base and Heliport. Therefore, providing a range of different airport types in each city. 
+In getting dataset from Ontario GeoHub, the data was created in 2012 but last updated in 2022. With this dataset, there were a few errors specifically with the latitude and longitude. When plotting the latitude and longitude from Ontario GeoHub, the map showed Russia and China. With this, it made the data incorrect
 Analysis
- 
-From this map, majority of the airports are in southern Ontario (Toronto, Ottawa, Hamilton, Kitchener–Cambridge–Waterloo, London, St. Catharines–Niagara, Windsor, Oshawa, Barrie, Kingston, Guelph, Brantford, Peterborough).
+
+From the map, majority of the airports are in southern Ontario (Toronto, Ottawa, Hamilton, Kitchener–Cambridge–Waterloo, London, St. Catharines–Niagara, Windsor, Oshawa, Barrie, Kingston, Guelph, Brantford, Peterborough).
 
 Analysis of the number of Retirement homes in Ontario
 
 Why is this data needed? 
--	Retirement homes primarily serve individuals who seek a degree of independence yet require additional assistance with their day-to-day activities and lives. Regulated by the Retirement Homes Regulatory Authority, the RHRA Authority oversees retirement homes that cater to seniors who prioritize independence but require supplementary support for their daily tasks and lifestyles. These homes must offer a minimum of two services out of the thirteen listed in the Retirement Homes Act, which includes providing meals, assistance with bathing, providing a dementia care program, administering medicine, providing incontinence care, or making available the services of a doctor, nurse, or pharmacist. 
+Retirement homes primarily serve individuals who seek a degree of independence yet require additional assistance with their day-to-day activities and lives. Regulated by the Retirement Homes Regulatory Authority, the RHRA Authority oversees retirement homes that cater to seniors who prioritize independence but require supplementary support for their daily tasks and lifestyles. These homes must offer a minimum of two services out of the thirteen listed in the Retirement Homes Act, which includes providing meals, assistance with bathing, providing a dementia care program, administering medicine, providing incontinence care, or making available the services of a doctor, nurse, or pharmacist. 
 
 Limitations
--	Majority of the data set provided did not break down how much retirement homes cost per city as each city is different based on different factors. 
--	In obtaining different data, majority of the data found were more than 4 years old limiting the number of valuable information. 
+Majority of the data set provided did not break down how much retirement homes cost per city as each city is different based on different factors. 
+In obtaining different data, majority of the data found were more than 4 years old limiting the number of valuable information. 
 
 Analysis
--	In generating the results from the data, the first step was to sort the values in ascending order. This would help generate a result of the first 10 cities in Ontario. In plotting the data, it was evident that the top 10 cities were in Southern Ontario (Ottawa - 80, Toronto - 76, Hamilton - 33, Mississauga – 23, London – 20, Kitchener - 15, Barrie - 12, Windsor - 12, Oakville - 12, Burlington - 11)
+In generating the results from the data, the first step was to sort the values in ascending order. This would help generate a result of the first 10 cities in Ontario. In plotting the data, it was evident that the top 10 cities were in Southern Ontario (Ottawa - 80, Toronto - 76, Hamilton - 33, Mississauga – 23, London – 20, Kitchener - 15, Barrie - 12, Windsor - 12, Oakville - 12, Burlington - 11)
 
 Analysis of the number of Long-Term Care in Ontario
 
 Why is this data needed? 
--	As defined by Health Canada, Long-Term Care (LTC) provides living accommodation for people who require on-site delivery of 24-hour, 7 days a week supervised care, including professional health services, personal care, and services such as meals, laundry, and housekeeping funded and regulated by the provincial government. People living in a home pay a fee for accommodation, which is set by the government and is based on the type of accommodation chosen (e.g., basic/standard, semi-private or private). Long-term care homes can operate either on a not-for-profit (municipal, charitable, non-profit nursing home) or for-profit basis. 
+As defined by Health Canada, Long-Term Care (LTC) provides living accommodation for people who require on-site delivery of 24-hour, 7 days a week supervised care, including professional health services, personal care, and services such as meals, laundry, and housekeeping funded and regulated by the provincial government. People living in a home pay a fee for accommodation, which is set by the government and is based on the type of accommodation chosen (e.g., basic/standard, semi-private or private). Long-term care homes can operate either on a not-for-profit (municipal, charitable, non-profit nursing home) or for-profit basis. 
 
 Analysis
--	The highest number of Long-Term Care Homes are in Toronto, Ottawa, Hamilton, Mississauga, London, Brampton, Burlington, Windsor, Barrie, and St. Catharines. When compared to the total number of retirement homes, Ottawa, Toronto, Hamilton, Mississauga, and London are the most favourable. 
-![image](https://user-images.githubusercontent.com/119383340/218883312-ec2922eb-bc68-4104-aee0-fb35ec3c9dd5.png)
+The highest number of Long-Term Care Homes are in Toronto, Ottawa, Hamilton, Mississauga, London, Brampton, Burlington, Windsor, Barrie, and St. Catharines. When compared to the total number of retirement homes, Ottawa, Toronto, Hamilton, Mississauga, and London are the most favourable. 
+
 
 
 # Overall Conclusion
