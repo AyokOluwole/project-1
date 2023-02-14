@@ -16,6 +16,7 @@ Data sources used are as follows:
 * [Canadian Census of Population (2021)](https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-telecharger.cfm?Lang=E), sourced through Statistics Canada
 * [Economic Wage Data by Job (2021)](https://open.canada.ca/data/en/dataset/adad580f-76b0-4502-bd05-20c125de9116), sourced through Employment and Social Development Canada and organized with the National Occupation Classification (2021) system
 * [Canadian Labour Force Survey (2021)](https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410038901), sourced through Statistics Canada
+* [Ontario Data Catalogue (2021)](https://data.ontario.ca/), sourced through Ontario Data Canada
 ## Limitations and Other Remarks
 * Data sourced from Statistics Canada are frequently pre-aggregated and not offered at a record level, so error calculations are either done on a "best effort" or are unavailable.
 * Data sourced from Statistics Canada can sometimes arrive in pre-determined bins (e.g., histogram) for which outliers are by default unavailable and cannot be calculated.
@@ -81,7 +82,21 @@ We wished to study which region of Ontario was "best" when it came to economic f
 **@Daniel & @Khevana, I see your two areas of inquiry as being similar, and perhaps could fit under the same umbrella. Feel free to adapt/change!**
 ## Inquiry
 ## Physician Count
-## Oil Spills and Green Space 
+
+* Death Registered by Cities / Towns
+   * Toronto had the highest deaths registered in a population of 5.6m while Marathon had the lowest deaths registered in a population of 3,000.
+   * Cities with greater population had greater deaths registered.
+   * While there can be many factors for cause of death, high populated areas also had the highest cases of death from Covid-19, (Source https://www.publichealthontario.ca/) as well as highest fatal vehicle collisions. (Source Open Data- Toronto Police Service (tps.ca))
+   * Overall, there was a positive linear relationship between a city's population and registered deaths.
+
+* Number of health impacts by Cities / Towns due to oil spills
+   * 43 Oil Spills occurred just in Toronto out of 327 occurrences (13%) 
+   * Occurrences of oil spills are more likely to occur in bigger land areas with greater population.
+
+* Social Assistance Programs offered by Cities / Towns
+   * St. CAtharines had the highest % of Social Assistance Programs offered compared to its population (26%)
+   * Toronto had the lowest % of Social Assistance Programs offered compared to its population (8%)
+   * While St. Catharines had the highest % of Social Assistance Programs Offered to its population, the % of social assistance programs offered to a city’s population has a weak  linear relationship.
 
 # Assessment of International Connection
 ## Inquiry
