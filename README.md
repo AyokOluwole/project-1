@@ -17,6 +17,8 @@ Data sources used are as follows:
 * [Economic Wage Data by Job (2021)](https://open.canada.ca/data/en/dataset/adad580f-76b0-4502-bd05-20c125de9116), sourced through Employment and Social Development Canada and organized with the National Occupation Classification (2021) system
 * [Canadian Labour Force Survey (2021)](https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410038901), sourced through Statistics Canada
 * [Ontario Data Catalogue (2021)](https://data.ontario.ca/), sourced through Ontario Data Canada
+* https://physicianreporting.org/app/uploads/2022/09/Physicians-in-ONTARIO-by-County-and-CSD-in-2021
+* https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3510005101
 ## Limitations and Other Remarks
 * Data sourced from Statistics Canada are frequently pre-aggregated and not offered at a record level, so error calculations are either done on a "best effort" or are unavailable.
 * Data sourced from Statistics Canada can sometimes arrive in pre-determined bins (e.g., histogram) for which outliers are by default unavailable and cannot be calculated.
@@ -77,12 +79,19 @@ We wished to study which region of Ontario was "best" when it came to economic f
     * Northeast, with on average 25% of households spending >30% of their income on housing
 * **Overall there are significant differences in cost of living as proxied by average percent of households spending >30% of their income on shelter by econoimc region. The best economic region to live in based only on cost of living is Northwest, while the worst is Toronto. This should be taken into account when choosing where to live, but is likely a secondary consideration to the number of available jobs in a location**
 
-
 # Assessment of Health Factors
-**@Daniel & @Khevana, I see your two areas of inquiry as being similar, and perhaps could fit under the same umbrella. Feel free to adapt/change!**
-## Inquiry
+## Inquiry :Which areas/cities are best to live in based on Health and Safety?
 ## Physician Count
-
+*Northwest region is better to live in terms of health care as the Physician population ratio is 4.0:1000higher than ideal ratio 1:1000.![image](https://user-images.githubusercontent.com/119536290/218852399-1b6fa6b8-2bad-45d9-9afd-ff4c2b3d86a0.png)
+*However, Hamilton-Niagara Peninsula and Windsor-Sarnia need attention to higher more physician as their ratio is 0.9:1000lower than ideal ration 1:1000.
+![image](https://user-images.githubusercontent.com/119536290/218852767-b70c72a2-932c-4a5c-b5db-a4483fa4d1da.png)
+*Best Economic region in terms of  physicians availability are Northwest and Muskoka-Kawartha
+## Violation count
+*There is a positive relationship between population and number of violation.
+![image](https://user-images.githubusercontent.com/119536290/218854370-5d77086f-b279-4c35-ba1a-ab98469680cb.png)
+*Highly populated areas are not safe to live in Ontario.
+*High risk area is Toronto.
+*Low risk area is Guelph.
 * Death Registered by Cities / Towns
    * Toronto had the highest deaths registered in a population of 5.6m while Marathon had the lowest deaths registered in a population of 3,000.
    * Cities with greater population had greater deaths registered.
