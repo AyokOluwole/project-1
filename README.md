@@ -79,10 +79,16 @@ We wished to study which region of Ontario was "best" when it came to economic f
 
 
 # Assessment of Health Factors
-**@Daniel & @Khevana, I see your two areas of inquiry as being similar, and perhaps could fit under the same umbrella. Feel free to adapt/change!**
-## Inquiry
+## Inquiry :Which areas/cities are the best in ontario based on health and safety
 ## Physician Count
-
+*Visualization indicates Northwest region is better to live in terms of health care as the Physician population ratio is 4.0:1000higher than ideal ratio 1:1000.
+*However, Hamilton-Niagara Peninsula and Windsor-Sarnia need attention to higher more physician as their ratio is 0.9:1000lower than ideal ration 1:1000.
+*Best Economic region in terms of  physicians availability are Northwest and Muskoka-Kawarthas.
+## Violation per census sub division
+*There is a positive linear relationship between a city’s population and Number of violation.the r-squared is: 0.9
+*Highly populated areas are not safe to live compared to less populated area.
+*High risk city is Toronto with 84360 reported violations.
+*Low risk city is Guelph with 1570 reported violations.
 * Death Registered by Cities / Towns
    * Toronto had the highest deaths registered in a population of 5.6m while Marathon had the lowest deaths registered in a population of 3,000.
    * Cities with greater population had greater deaths registered.
