@@ -1,0 +1,19 @@
+Analysis of Airports in Ontario
+
+-Why is this data needed? 
+Because we are looking at which city is the best to live in, we want to take the number of airports into account. According to Stats Canada, in the year 2021, the Air passenger traffic at Toronto/Lester B Pearson International airport saw at least 12,368,926 total passengers who enplaned and deplaned. 
+
+Limitations 
+There were a few limitations in looking for data sets for airports in Ontario.
+1. Ontario GeoHub provides a vast summary of official airports in Canada. By their definition, ‘Airports’ includes Hospital Heliport, Airport, Seaplane Base, and Heliport. Therefore, providing a range of different airport types in each city. 
+2. In getting the dataset from Ontario GeoHub, the data was created in 2012 but last updated in 2022. This dataset had a few errors specifically with the latitude and longitude. The map showed Russia and China when plotting the latitude and longitude from Ontario GeoHub. With this, it made the data incorrect
+Analysis
+ 
+From the plotted map, the majority of the airports are in southern Ontario (Toronto, Ottawa, Hamilton, Kitchener–Cambridge–Waterloo, London, St. Catharines–Niagara, Windsor, Oshawa, Barrie, Kingston, Guelph, Brantford, Peterborough) making it more desirable to live in. 
+
+Analysis of the number of Retirement homes in Ontario
+Why is this data needed? 
+- Retirement homes primarily serve individuals who seek a degree of independence yet require additional assistance with their day-to-day activities and lives. Regulated by the Retirement Homes Regulatory Authority, the RHRA Authority oversees retirement homes that cater to seniors who prioritize independence but require supplementary support for their daily tasks and lifestyles. These homes must offer a minimum of two services out of the thirteen listed in the Retirement Homes Act, which includes providing meals, assistance with bathing, providing a dementia care program, administering medicine, providing incontinence care, or making available the services of a doctor, nurse, or pharmacist. 
+Analysis
+- In generating the results from the data, the first step was to sort the values in ascending order. This would help generate a result of the first 10 cities in Ontario. In plotting the data, it was evident that the top 10 cities were in Southern Ontario (Ottawa - 80, Toronto - 76, Hamilton - 33, Mississauga – 23, London – 20, Kitchener - 15, Barrie - 12, Windsor - 12, Oakville - 12, Burlington - 11)
+
